@@ -1,18 +1,17 @@
-﻿# Site Map
+# Site Map
 
-- `index.html` - private local hub front door
-- `projects/index.html` - project overview
-- `projects/practical-ai-sense.html` - PAS exhibit
-- `projects/practical-ai-evaluation.html` - PAE exhibit
-- `projects/practical-life-sense.html` - PLS exhibit
+- `index.html` - public preview hub front door
+- `projects/index.html` - project overview with public preview links
+- `projects/practical-ai-sense.html` - PAS exhibit and live preview link
+- `projects/practical-ai-evaluation.html` - PAE exhibit and live preview link
+- `projects/practical-life-sense.html` - PLS exhibit and live preview link
 - `background/index.html` - account-level background
-- `background/past-research.html` - Past Research summary and migration note
+- `background/past-research.html` - Past Research summary
 - `writing/index.html` - account-level writing/reflections
-- `writing/life-views.html` - Reflections summary and migration note
+- `writing/life-views.html` - Reflections summary
 - `method/index.html` - work method
 - `about/index.html` - account orientation
-- `status/index.html` - reviewer staging status
+- `status/index.html` - public preview status
 - `status/disclaimers.html` - disclaimer language
-- `status/reviewer-links.html` - reviewer-only private staging repository links
-- `status/release-gates.html` - release gate record
-
+- `status/reviewer-links.html` - public repository links
+- `status/release-gates.html` - release notes and gates
