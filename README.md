@@ -1,4 +1,4 @@
-# honggaoc-star.github.io
+﻿# honggaoc-star.github.io
 
 Private local staging folder for Honggao Cao's personal GitHub Pages hub.
 
@@ -7,8 +7,7 @@ This repository-shaped folder is intended to become the local working base for `
 ## Current Status
 
 - Local/private staging only.
-- Private GitHub staging repository.
-- Initial browser upload to GitHub has been completed.
+- Private GitHub staging repository has been created/uploaded.
 - GitHub Pages is not enabled/configured.
 - No public release has been authorized.
 - Project pages are exhibits/placeholders, not full project-package migrations.
@@ -22,7 +21,7 @@ This repository-shaped folder is intended to become the local working base for `
 - `writing/` - account-level writing/reflections and Life Views summary/migration note
 - `method/` - how the work was built
 - `about/` - account orientation
-- `status/` - staging status, disclaimer, and release-gate pages
+- `status/` - staging status, reviewer-only private links, disclaimer, and release-gate pages
 - `PUBLIC-RELEASE-CHECKLIST.md` - intentionally incomplete public-release gate checklist
 - `SITE-MAP.md` - file-level site map
 - `RELEASE-NOTES.md` - local staging history
@@ -45,3 +44,5 @@ Not authorized:
 - public release of any material.
 
 Open `index.html` locally to review the hub.
+
+

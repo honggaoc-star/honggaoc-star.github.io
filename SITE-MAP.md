@@ -1,4 +1,4 @@
-# Site Map
+﻿# Site Map
 
 - `index.html` - private local hub front door
 - `projects/index.html` - project overview
@@ -13,4 +13,6 @@
 - `about/index.html` - account orientation
 - `status/index.html` - reviewer staging status
 - `status/disclaimers.html` - disclaimer language
+- `status/reviewer-links.html` - reviewer-only private staging repository links
 - `status/release-gates.html` - release gate record
+
