@@ -1,6 +1,6 @@
 ﻿# honggaoc-star.github.io
 
-Private local staging folder for Honggao Cao's personal GitHub Pages hub.
+Public preview hub for Honggao Cao's project portfolio and practical judgment work.
 
 This repository-shaped folder is intended to become the local working base for `honggaoc-star.github.io`. It is not currently a public GitHub Pages release.
 
