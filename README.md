@@ -7,7 +7,12 @@ This repository-shaped folder is intended to become the local working base for `
 ## Current Status
 
 - Local/private staging only.
-- No GitHub.com repository, push, Pages configuration, or public release has been authorized.
+- Private GitHub staging repository.
+- Initial browser upload to GitHub has been completed.
+- GitHub Pages is not enabled/configured.
+- No public release has been authorized.
+- Project pages are exhibits/placeholders, not full project-package migrations.
+- Original OneDrive project source folders remain protected/read-only.
 - Project pages are exhibits/placeholders, not full project-package migrations.
 - Original OneDrive project source folders remain protected/read-only.
 
@@ -34,10 +39,10 @@ Scope authorized:
 
 Not authorized:
 
-- GitHub repository creation;
-- GitHub pushes, uploads, settings changes, or Pages configuration;
-- public account/profile changes;
-- copying full project source packages;
+- GitHub Pages configuration;
+- public repository visibility;
+- public account/profile release links;
+- copying full project source packages into this hub repository;
 - editing original OneDrive project folders;
 - public release of any material.
 
