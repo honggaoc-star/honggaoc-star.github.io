@@ -13,8 +13,6 @@ This repository-shaped folder is intended to become the local working base for `
 - No public release has been authorized.
 - Project pages are exhibits/placeholders, not full project-package migrations.
 - Original OneDrive project source folders remain protected/read-only.
-- Project pages are exhibits/placeholders, not full project-package migrations.
-- Original OneDrive project source folders remain protected/read-only.
 
 ## Contents
 
