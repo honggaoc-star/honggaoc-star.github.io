@@ -1,38 +1,24 @@
-# Local Repository Setup Notes
+# Repository Setup And Public Preview Notes
 
-Status: local/private preparation only.
+Current status: this repository hosts the public preview hub for Honggao Cao's GitHub Pages portfolio.
 
-## Intended Local Repository
+Live hub:
 
-Folder:
+https://honggaoc-star.github.io/
 
-`C:\Users\gaohe\OneDrive\Desktop\199. Product Management\3. GitHub\honggaoc-star.github.io`
+## Repository Role
 
-Purpose:
+This repository is the account-level front door. It introduces the three project previews, account-level background, selected reflections, method notes, status context, and disclaimer material.
 
-- local working base for Honggao's personal GitHub Pages hub;
-- account-level front door for the three project exhibits;
-- private staging surface before any GitHub.com action.
+## Current Public Preview Links
 
-## Not Yet Authorized
+- Practical AI Evaluation: https://honggaoc-star.github.io/practical-ai-evaluation/
+- Practical AI Sense: https://honggaoc-star.github.io/practical-ai-sense/
+- Practical Life Sense: https://honggaoc-star.github.io/practical-life-sense/
 
-- GitHub.com repository creation;
-- GitHub push or upload;
-- GitHub Pages configuration;
-- account/profile metadata changes;
-- public release;
-- copying full PAS, PAE, or PLS project packages;
-- editing original OneDrive project source folders.
+## Maintenance Notes
 
-## Git Status
-
-`git` was not available in the current shell during scaffolding, so A/PM did not initialize a `.git` repository.
-
-When `git` is available and Honggao authorizes local git initialization, the intended commands are:
-
-```powershell
-git init
-git status
-```
-
-Do not add a remote, push, or configure GitHub Pages without a separate gate.
+- Keep the hub public-preview wording aligned with the three project repositories.
+- Verify live Pages links after every browser upload.
+- Keep original source folders separate from this GitHub-facing portfolio workspace.
+- Treat older gate notes as historical records, not as current publication status.
