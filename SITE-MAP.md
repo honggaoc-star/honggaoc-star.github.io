@@ -1,17 +1,17 @@
 # Site Map
 
-- `index.html` - public preview hub front door
-- `projects/index.html` - project overview with public preview links
-- `projects/practical-ai-sense.html` - PAS exhibit and live preview link
-- `projects/practical-ai-evaluation.html` - PAE exhibit and live preview link
-- `projects/practical-life-sense.html` - PLS exhibit and live preview link
-- `background/index.html` - account-level background
-- `background/past-research.html` - Past Research summary
-- `writing/index.html` - account-level writing/reflections
-- `writing/life-views.html` - Reflections summary
-- `method/index.html` - work method
-- `about/index.html` - account orientation
-- `status/index.html` - public preview status
+- `index.html` - public portfolio front door and primary project-entry page
+- `projects/index.html` - compatibility page pointing visitors back to `index.html#project-cards`
+- `projects/practical-ai-sense.html` - unlisted/support PAS exhibit and live project link
+- `projects/practical-ai-evaluation.html` - unlisted/support PAE exhibit and live project link
+- `projects/practical-life-sense.html` - unlisted/support PLS exhibit and live project link
+- Past Research primary link - PAS `past-research.html`
+- Local `background/past-research.html` - support page retained, not a primary hub destination
+- Reflections primary link - PAS `life-views.html`
+- Local `writing/life-views.html` - support page retained, not a primary hub destination
+- `method/index.html` - unlisted/support method note
+- `about/index.html` - About page aligned to completed projects
+- `status/index.html` - release context support page
 - `status/disclaimers.html` - disclaimer language
 - `status/reviewer-links.html` - public repository links
-- `status/release-gates.html` - release notes and gates
+- `status/release-gates.html` - release context notes

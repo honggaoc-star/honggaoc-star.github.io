@@ -11,7 +11,8 @@
   --warn: #8b5d00;
   --max: 1120px;
   --radius: 6px;
-  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --serif: Georgia, "Times New Roman", serif;
+  --sans: "Segoe UI", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 * {
@@ -22,7 +23,7 @@ body {
   margin: 0;
   color: var(--ink);
   background: var(--bg);
-  line-height: 1.55;
+  font: 17px/1.72 var(--serif);
 }
 
 a {
@@ -38,7 +39,7 @@ a:hover {
 .review-banner {
   background: #182427;
   color: #f5f2e8;
-  font-size: 0.88rem;
+  font: 0.88rem/1.55 var(--sans);
   padding: 9px 20px;
 }
 
@@ -68,7 +69,7 @@ a:hover {
 .brand {
   color: var(--ink);
   border-bottom: 0;
-  font-weight: 700;
+  font: 700 1rem/1.25 var(--sans);
   letter-spacing: 0;
 }
 
@@ -76,7 +77,7 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   gap: 14px;
-  font-size: 0.94rem;
+  font: 0.94rem/1.4 var(--sans);
 }
 
 .nav-links a {
@@ -94,12 +95,16 @@ main {
   padding: 42px 22px 68px;
 }
 
+.hero > div {
+  width: 100%;
+}
+
 .hero {
   display: grid;
-  grid-template-columns: minmax(0, 1.08fr) minmax(300px, 0.92fr);
+  grid-template-columns: 1fr;
   gap: 42px;
   align-items: center;
-  min-height: 430px;
+  min-height: 300px;
   padding-bottom: 36px;
   border-bottom: 1px solid var(--line);
 }
@@ -107,21 +112,22 @@ main {
 .eyebrow {
   margin: 0 0 12px;
   color: var(--accent-2);
-  font-weight: 700;
+  font: 700 0.75rem/1.4 var(--sans);
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  font-size: 0.75rem;
 }
 
 h1, h2, h3 {
   margin: 0;
-  line-height: 1.12;
+  font-family: var(--sans);
+  line-height: 1.08;
   letter-spacing: 0;
 }
 
 h1 {
-  font-size: 4.2rem;
-  max-width: 760px;
+  font-size: clamp(2.25rem, 5vw, 4.4rem);
+  line-height: 1.02;
+  max-width: none;
 }
 
 h2 {
@@ -135,8 +141,9 @@ h3 {
 .lead {
   margin: 22px 0 0;
   color: #465154;
-  font-size: 1.18rem;
-  max-width: 700px;
+  font-size: 1.12rem;
+  line-height: 1.72;
+  max-width: 780px;
 }
 
 .mobile-arc-note {
@@ -163,7 +170,7 @@ h3 {
   border-radius: var(--radius);
   background: var(--accent);
   color: #fff;
-  font-weight: 700;
+  font: 700 0.95rem/1.35 var(--sans);
 }
 
 .button.secondary {
@@ -237,6 +244,10 @@ h3 {
   gap: 16px;
 }
 
+.two-card-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 .card {
   background: var(--paper);
   border: 1px solid var(--line);
@@ -255,8 +266,7 @@ h3 {
   border-radius: var(--radius);
   background: #f4ead5;
   color: var(--warn);
-  font-size: 0.82rem;
-  font-weight: 700;
+  font: 700 0.82rem/1.35 var(--sans);
 }
 
 .meta-list {
@@ -287,6 +297,7 @@ h3 {
 
 .page-header h1 {
   font-size: 3.2rem;
+  line-height: 1.05;
 }
 
 .content {
@@ -313,7 +324,7 @@ footer {
   margin: 0 auto;
   padding: 28px 22px 44px;
   color: var(--muted);
-  font-size: 0.88rem;
+  font: 0.88rem/1.55 var(--sans);
 }
 
 footer .footer-links {
@@ -355,7 +366,7 @@ footer .footer-links {
 
 @media (max-width: 620px) {
   .review-banner {
-    font-size: 0.78rem;
+    font: 0.78rem/1.4 var(--sans);
     padding: 8px 16px;
   }
 
@@ -366,7 +377,7 @@ footer .footer-links {
 
   .nav-links {
     gap: 10px;
-    font-size: 0.9rem;
+    font: 0.9rem/1.4 var(--sans);
   }
 
   main {
@@ -388,6 +399,7 @@ footer .footer-links {
 
   .page-header h1 {
     font-size: 2.15rem;
+    line-height: 1.05;
   }
 
   .lead {
@@ -405,7 +417,7 @@ footer .footer-links {
   }
 
   .button {
-    font-size: 0.92rem;
+    font: 700 0.92rem/1.35 var(--sans);
     min-height: 38px;
     padding: 8px 11px;
   }
