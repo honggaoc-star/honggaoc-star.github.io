@@ -2,6 +2,8 @@
 
 ## 2026-07-12 - Mature Portfolio Editorial Cleanup
 
+- Applied CT second editorial polish: shortened the hero title, refined the tagline, rebuilt About around biography/context, standardized Practical AI Evaluation naming, removed duplicate context-card links, added an About bridge, and redirected obsolete hub context pages to PAS.
+
 - Adjusted hub title width, title leading, and typography to align more closely with the project pages.
 - Updated the About page narrative to the approved three-project briefing.
 
