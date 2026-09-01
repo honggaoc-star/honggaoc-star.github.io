@@ -1,17 +1,30 @@
 # Site Map
 
-- `index.html` - public portfolio front door and primary project-entry page
-- `projects/index.html` - compatibility page pointing visitors back to `index.html#project-cards`
-- `projects/practical-ai-sense.html` - unlisted/support PAS exhibit and live project link
-- `projects/practical-ai-evaluation.html` - unlisted/support PAE exhibit and live project link
-- `projects/practical-life-sense.html` - unlisted/support PLS exhibit and live project link
-- Past Research primary link - PAS `past-research.html`
-- Local `background/past-research.html` - support page retained, not a primary hub destination
-- Reflections primary link - PAS `life-views.html`
-- Local `writing/life-views.html` - support page retained, not a primary hub destination
-- `method/index.html` - unlisted/support method note
-- `about/index.html` - About page aligned to completed projects
-- `status/index.html` - release context support page
+## Public orientation
+
+- `index.html` - research-centered personal homepage
+  - `#research` - current research areas and their relationships
+  - `#publications` - current working paper and earlier scholarly record
+  - `#applied-work` - differentiated applied environments and tools
+  - `#project-cards` - retained compatibility fragment within Applied Work
+  - `#reflections` - personal reflections / Life Views
+  - `#about` - concise background and external links
+- `about/index.html` - present research, approach, intellectual continuity, professional and academic background, and external links
+
+## Preserved support routes
+
+- `projects/index.html` - compatibility page pointing to the retained `index.html#project-cards` fragment
+- `projects/practical-ai-sense.html` - support exhibit and live Practical AI Sense link
+- `projects/practical-ai-evaluation.html` - support exhibit and live PAE Workbench / framework-paper links
+- `projects/practical-life-sense.html` - support exhibit and live Practical Life Sense link
+- `background/index.html` - retained support page for earlier research
+- `background/past-research.html` - retained redirect to the external Earlier Research record
+- `writing/index.html` - retained support page for reflections
+- `writing/life-views.html` - retained redirect to Life Views
+- `method/index.html` - retained supporting method note
+- `status/index.html` - release-context support page
 - `status/disclaimers.html` - disclaimer language
 - `status/reviewer-links.html` - public repository links
-- `status/release-gates.html` - release context notes
+- `status/release-gates.html` - release-context notes
+
+No public paths are relocated in this reorientation. Independent project sites remain separate experiences and are linked rather than duplicated.

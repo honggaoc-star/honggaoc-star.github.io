@@ -1,29 +1,38 @@
 # honggaoc-star.github.io
 
-Public portfolio hub for Honggao Cao's practical AI literacy, AI evaluation, and everyday reasoning projects.
+Research-centered personal website for Honggao Cao's independent research, publications, applied work, reflections, and background.
 
-This repository hosts the account-level GitHub Pages hub for three related public projects.
+This repository hosts the account-level GitHub Pages site at <https://honggaoc-star.github.io/>. The root page is an orientation and navigation surface: it introduces the current research agenda before directing visitors to publications, applied environments, reflections, and background.
 
 ## Current Status
 
-- Public portfolio hub.
-- GitHub Pages enabled.
-- The root `index.html` is the primary project-entry page.
-- Project-specific notes, disclaimers, and reuse boundaries remain part of the release context.
-- Original OneDrive project source folders remain protected/read-only for the GTB workflow.
+- Public personal research site on GitHub Pages.
+- The root `index.html` is the primary orientation page.
+- Homepage information hierarchy: Current Research, Selected Publications, Applied Work, Reflections, and About.
+- Existing public paths and support pages remain in place for backward compatibility.
+- Independent project sites retain their own content, scope, notes, disclaimers, and reuse boundaries.
 
 ## Contents
 
-- `index.html` - portfolio front door and primary project-entry section
-- `projects/` - unlisted/support project exhibit pages plus a compatibility page for the former project overview URL
-- Past Research link routes to PAS: https://honggaoc-star.github.io/practical-ai-sense/past-research.html
-- Reflections link routes to PAS Life Views: https://honggaoc-star.github.io/practical-ai-sense/life-views.html
-- `method/` - unlisted/support method note
-- `about/` - account orientation aligned to the completed projects
-- `status/` - repository links, disclaimer, and release-context pages
-- `SITE-MAP.md` - file-level site map
+- `index.html` - research-centered homepage and primary navigation map
+- `about/` - present research, approach, intellectual continuity, professional and academic background, and external links
+- `projects/` - retained compatibility and support exhibit pages for independent applied-work sites
+- `background/` - retained support routes for the earlier-research record
+- `writing/` - retained support routes for reflections and Life Views
+- `method/` - retained supporting method note
+- `status/` - repository links, disclaimers, and release-context pages
+- `SITE-MAP.md` - conceptual homepage architecture and file-level route map
 - `RELEASE-NOTES.md` - release history
+
+## External Research and Project Destinations
+
+- Earlier Research: <https://honggaoc-star.github.io/practical-ai-sense/past-research.html>
+- Evidence-Centered AI Evaluation working paper: <https://honggaoc-star.github.io/practical-ai-evaluation/working-paper.html>
+- PAE Workbench: <https://honggaoc-star.github.io/practical-ai-evaluation/>
+- Practical AI Sense: <https://honggaoc-star.github.io/practical-ai-sense/>
+- Practical Life Sense: <https://honggaoc-star.github.io/practical-life-sense/>
+- Reflections / Life Views: <https://honggaoc-star.github.io/practical-ai-sense/life-views.html>
 
 ## Boundary
 
-These are independent personal projects and educational/prototype materials. They are not professional advice, approval, certification, validation, compliance conclusions, or proof of safety.
+The applied environments are independent personal projects and educational/prototype materials. They are not professional advice, approval, certification, validation, compliance conclusions, or proof of safety.
