@@ -26,12 +26,17 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 
 ## External Research and Project Destinations
 
+- An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems: <https://github.com/honggaoc-star/AI-Risk-Management/tree/main/Analytical-Framework-on-Model-Error>
+- Plausible Mechanisms for Hallucination in Generative AI Systems: A Response-Production Framework: <https://github.com/honggaoc-star/AI-Risk-Management/tree/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems>
+- Return-Weighted Risk for Navigating an Evolving AI Landscape: <https://github.com/honggaoc-star/AI-Risk-Management/tree/main/Return-Weighted-Risk>
 - Earlier Research: <https://honggaoc-star.github.io/practical-ai-sense/past-research.html>
 - Evidence-Centered AI Evaluation working paper: <https://honggaoc-star.github.io/practical-ai-evaluation/working-paper.html>
 - PAE Workbench: <https://honggaoc-star.github.io/practical-ai-evaluation/>
 - Practical AI Sense: <https://honggaoc-star.github.io/practical-ai-sense/>
 - Practical Life Sense: <https://honggaoc-star.github.io/practical-life-sense/>
 - Reflections / Life Views: <https://honggaoc-star.github.io/practical-ai-sense/life-views.html>
+- LinkedIn: <https://www.linkedin.com/in/honggao-cao-11a90149/>
+- ResearchGate: <https://www.researchgate.net/profile/Honggao-Cao>
 
 ## Boundary
 

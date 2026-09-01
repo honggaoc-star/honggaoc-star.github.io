@@ -4,7 +4,7 @@
 
 - `index.html` - research-centered personal homepage
   - `#research` - current research areas and their relationships
-  - `#publications` - current working paper and earlier scholarly record
+  - `#publications` - current AI manuscripts, the evidence-centered evaluation paper, and earlier scholarly record
   - `#applied-work` - differentiated applied environments and tools
   - `#project-cards` - retained compatibility fragment within Applied Work
   - `#reflections` - personal reflections / Life Views
