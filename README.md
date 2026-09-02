@@ -8,7 +8,7 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 
 - Public personal research site on GitHub Pages.
 - The root `index.html` is the primary orientation page.
-- Homepage information hierarchy: Current Research, Selected Publications, Applied Work, Reflections, and About.
+- Homepage information hierarchy: Current Research, Selected Publications, Applied Work, Essays and Reflections (independent Essays and shorter Life Views), and About.
 - Existing public paths and support pages remain in place for backward compatibility.
 - Independent project sites retain their own content, scope, notes, disclaimers, and reuse boundaries.
 

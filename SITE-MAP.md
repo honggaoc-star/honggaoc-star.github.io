@@ -7,7 +7,7 @@
   - `#publications` - current AI manuscripts, the evidence-centered evaluation paper, and earlier scholarly record
   - `#applied-work` - differentiated applied environments and tools
   - `#project-cards` - retained compatibility fragment within Applied Work
-  - `#reflections` - personal reflections / Life Views
+  - `#reflections` - Essays and Reflections: independent longer essays and shorter Life Views, linked at their existing public destinations
   - `#about` - concise background and external links
 - `about/index.html` - present research, approach, intellectual continuity, professional and academic background, and external links
 
