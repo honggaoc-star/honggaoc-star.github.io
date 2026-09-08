@@ -248,6 +248,45 @@ h3 {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
+.featured-publications {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.subsection-title {
+  margin-top: 28px;
+}
+
+.entry-list {
+  margin-top: 12px;
+  border-top: 1px solid var(--line);
+}
+
+.entry {
+  padding: 16px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.entry .eyebrow {
+  margin-bottom: 7px;
+}
+
+.entry p {
+  margin: 8px 0 0;
+  color: var(--muted);
+}
+
+.entry-links {
+  font: 0.92rem/1.5 var(--sans);
+}
+
+.reflections-grid {
+  grid-template-columns: minmax(0, 2fr) minmax(260px, 1fr);
+}
+
+.essay-list {
+  margin-top: 18px;
+}
+
 .card {
   background: var(--paper);
   border: 1px solid var(--line);
@@ -350,7 +389,7 @@ footer .footer-links {
     padding-bottom: 28px;
   }
 
-  .grid {
+  .grid, .featured-publications, .reflections-grid {
     grid-template-columns: 1fr;
   }
 
