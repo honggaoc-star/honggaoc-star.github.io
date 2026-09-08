@@ -4,10 +4,10 @@
 
 - `index.html` - research-centered personal homepage
   - `#research` - current research areas and their relationships
-  - `#publications` - current AI manuscripts, the evidence-centered evaluation paper, and earlier scholarly record
+  - `#publications` - three featured current papers with reader-first PDF links, a compact list of additional current research, and the earlier scholarly record
   - `#applied-work` - differentiated applied environments and tools
   - `#project-cards` - retained compatibility fragment within Applied Work
-  - `#reflections` - Essays and Reflections: independent longer essays and shorter Life Views, linked at their existing public destinations
+  - `#reflections` - Essays & Reflections: a reader-facing four-essay index alongside the separate, shorter Life Views collection
   - `#about` - concise background and external links
 - `about/index.html` - present research, approach, intellectual continuity, professional and academic background, and external links
 

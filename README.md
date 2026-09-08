@@ -8,7 +8,8 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 
 - Public personal research site on GitHub Pages.
 - The root `index.html` is the primary orientation page.
-- Homepage information hierarchy: Current Research, Selected Publications, Applied Work, Essays and Reflections (independent Essays and shorter Life Views), and About.
+- Homepage information hierarchy: Current Research, Selected Publications, Applied Work, Essays & Reflections (a four-essay index and shorter Life Views), and About.
+- Publication links are reader-first: featured titles open canonical PDFs where available, with secondary research-record links for repository context.
 - Existing public paths and support pages remain in place for backward compatibility.
 - Independent project sites retain their own content, scope, notes, disclaimers, and reuse boundaries.
 
@@ -26,9 +27,14 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 
 ## External Research and Project Destinations
 
-- An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems: <https://github.com/honggaoc-star/AI-Risk-Management/tree/main/Analytical-Framework-on-Model-Error>
-- Plausible Mechanisms for Hallucination in Generative AI Systems: A Response-Production Framework: <https://github.com/honggaoc-star/AI-Risk-Management/tree/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems>
-- Return-Weighted Risk for Navigating an Evolving AI Landscape: <https://github.com/honggaoc-star/AI-Risk-Management/tree/main/Return-Weighted-Risk>
+- AI Provenance and the Evaluation of Intellectual Work: <https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.0.pdf>
+- An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems: <https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf>
+- Plausible Mechanisms for Hallucination in Generative AI Systems: A Response-Production Framework: <https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf>
+- Return-Weighted Risk for Navigating an Evolving AI Landscape: <https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Return-Weighted-Risk/Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape.pdf>
+- Luck in a Puzzling World: <https://github.com/honggaoc-star/Research-Lab/blob/main/Research-on-Luck/Essays/Luck-in-a-Puzzling-World/Luck-in-a-Puzzling-World-v1.0.pdf>
+- World as a Puzzling System: <https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems/Essays/World-as-a-Puzzling-System/World-as-a-Puzzling-System-v1.0.pdf>
+- Society as a System in Pursuit of Outcomes: <https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/Society-as-a-System-in-Pursuit-of-Outcomes-v1.0.pdf>
+- Life as an Unfolding Process: <https://github.com/honggaoc-star/Research-Lab/blob/main/Life-Perspectives/Essays/Life-as-an-Unfolding-Process/Life-as-an-Unfolding-Process-v1.0.pdf>
 - Earlier Research: <https://honggaoc-star.github.io/practical-ai-sense/past-research.html>
 - Evidence-Centered AI Evaluation working paper: <https://honggaoc-star.github.io/practical-ai-evaluation/working-paper.html>
 - PAE Workbench: <https://honggaoc-star.github.io/practical-ai-evaluation/>
