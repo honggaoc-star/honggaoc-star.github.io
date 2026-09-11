@@ -8,7 +8,7 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 
 - Public personal research site on GitHub Pages.
 - The root `index.html` is the primary orientation page.
-- Homepage information hierarchy: Current Research, Selected Publications, Applied Work, Essays & Reflections (a four-essay index and shorter Life Views), and About.
+- Homepage information hierarchy: Current Research, Selected Publications, Applied Work, Essays & Reflections (a featured September 2026 manuscript, four-essay index, and shorter Life Views), and About.
 - Publication links are reader-first: featured titles open canonical PDFs where available, with secondary research-record links for repository context.
 - Existing public paths and support pages remain in place for backward compatibility.
 - Independent project sites retain their own content, scope, notes, disclaimers, and reuse boundaries.
@@ -27,6 +27,7 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 
 ## External Research and Project Destinations
 
+- How We Get Where We Are: <https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems-Synthesis/Manuscript/How_We_Get_Where_We_Are.pdf>
 - AI Provenance and the Evaluation of Intellectual Work: <https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.0.pdf>
 - An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems: <https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf>
 - Plausible Mechanisms for Hallucination in Generative AI Systems: A Response-Production Framework: <https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf>
