@@ -7,7 +7,8 @@
   - `#publications` - three featured current papers with reader-first PDF links, a compact list of additional current research, and the earlier scholarly record
   - `#applied-work` - differentiated applied environments and tools
   - `#project-cards` - retained compatibility fragment within Applied Work
-  - `#reflections` - Essays & Reflections: a reader-facing four-essay index alongside the separate, shorter Life Views collection
+  - `#reflections` - Essays & Reflections: a featured September 2026 manuscript above the reader-facing four-essay index and the separate, shorter Life Views collection
+    - `#how-we-get-where-we-are` - featured manuscript block for *How We Get Where We Are*
   - `#about` - concise background and external links
 - `about/index.html` - present research, approach, intellectual continuity, professional and academic background, and external links
 
