@@ -8,8 +8,8 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 
 - Public personal research site on GitHub Pages.
 - The root `index.html` is the primary orientation page.
-- Homepage information hierarchy: Current Research, Selected Publications, Applied Work, Essays & Reflections (a featured September 2026 manuscript, four-essay index, and shorter Life Views), and About.
-- Publication links are reader-first: featured titles open canonical PDFs where available, with secondary research-record links for repository context.
+- Homepage information hierarchy: Current Research, Selected Publications (AI-focused research and Research Lab working papers), Applied Work, Essays & Reflections (a featured September 2026 manuscript, four-essay index, and shorter Life Views), and About.
+- Publication links are reader-first: titles open canonical PDFs where available, with secondary research-record links for repository context. Research Lab working papers remain distinct from Essays & Reflections.
 - Existing public paths and support pages remain in place for backward compatibility.
 - Independent project sites retain their own content, scope, notes, disclaimers, and reuse boundaries.
 
@@ -32,6 +32,9 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 - An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems: <https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems.pdf>
 - Plausible Mechanisms for Hallucination in Generative AI Systems: A Response-Production Framework: <https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems.pdf>
 - Return-Weighted Risk for Navigating an Evolving AI Landscape: <https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Return-Weighted-Risk/Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape.pdf>
+- Prediction–Attribution Conjugacy in Adaptive Decision Problems: <https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.0.pdf>
+- Why Important Questions Are Often Difficult: <https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Why-Important-Questions-Are-Often-Difficult/Why-Important-Questions-Are-Often-Difficult-v1.0.pdf>
+- The World Might Not Be as Complex as We Thought: <https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/The-World-Might-Not-Be-as-Complex-as-We-Thought-v1.0.pdf>
 - Luck in a Puzzling World: <https://github.com/honggaoc-star/Research-Lab/blob/main/Research-on-Luck/Essays/Luck-in-a-Puzzling-World/Luck-in-a-Puzzling-World-v1.0.pdf>
 - World as a Puzzling System: <https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems/Essays/World-as-a-Puzzling-System/World-as-a-Puzzling-System-v1.0.pdf>
 - Society as a System in Pursuit of Outcomes: <https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/Society-as-a-System-in-Pursuit-of-Outcomes-v1.0.pdf>
