@@ -4,10 +4,10 @@
 
 - `index.html` - research-centered personal homepage
   - `#research` - current research areas and their relationships
-  - `#publications` - three featured current papers with reader-first PDF links, a compact list of additional current research, and the earlier scholarly record
+  - `#publications` - four featured current papers plus a compact list of additional current research, including three Research Lab working papers with direct-PDF primary links and secondary research-record links
   - `#applied-work` - differentiated applied environments and tools
   - `#project-cards` - retained compatibility fragment within Applied Work
-  - `#reflections` - Essays & Reflections: a featured September 2026 manuscript above the reader-facing four-essay index and the separate, shorter Life Views collection
+  - `#reflections` - Essays & Reflections, kept distinct from the Research Lab working papers: a featured September 2026 manuscript above the reader-facing four-essay index and the separate, shorter Life Views collection
     - `#how-we-get-where-we-are` - featured manuscript block for *How We Get Where We Are*
   - `#about` - concise background and external links
 - `about/index.html` - present research, approach, intellectual continuity, professional and academic background, and external links
