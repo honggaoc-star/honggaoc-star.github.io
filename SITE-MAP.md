@@ -4,7 +4,7 @@
 
 - `index.html` - research-centered personal homepage
   - `#research` - current research areas and their relationships
-  - `#publications` - four featured current papers plus a compact list of additional current research, including three Research Lab working papers with direct-PDF primary links and secondary research-record links
+  - `#publications` - four featured current papers plus a compact list of additional current research, including four Research Lab working papers with direct-PDF primary links and secondary research-record links
   - `#applied-work` - differentiated applied environments and tools
   - `#project-cards` - retained compatibility fragment within Applied Work
   - `#reflections` - Essays & Reflections, kept distinct from the Research Lab working papers: a featured September 2026 manuscript above the reader-facing four-essay index and the separate, shorter Life Views collection
