@@ -476,6 +476,10 @@ footer .footer-links {
     align-items: flex-start;
     flex-direction: column;
   }
+
+  .nav-links {
+    width: 100%;
+  }
 }
 
 @media (max-width: 620px) {
