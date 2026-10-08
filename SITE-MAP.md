@@ -29,3 +29,7 @@
 - `status/release-gates.html` - release-context notes
 
 No public paths are relocated in this reorientation. Independent project sites remain separate experiences and are linked rather than duplicated.
+
+## Internal editorial reference
+
+- `PORTFOLIO-REGISTER.md` - canonical October 2026 inventory for portfolio roles, authoritative homes, bounded status language, navigational connections, and quarterly review

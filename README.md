@@ -22,6 +22,7 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 - `writing/` - retained support routes for reflections and Life Views
 - `method/` - retained supporting method note
 - `status/` - repository links, disclaimers, and release-context pages
+- `PORTFOLIO-REGISTER.md` - internal October 2026 portfolio inventory, status, boundaries, and quarterly-maintenance reference
 - `SITE-MAP.md` - conceptual homepage architecture and file-level route map
 - `RELEASE-NOTES.md` - release history
 
