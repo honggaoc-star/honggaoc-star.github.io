@@ -36,6 +36,28 @@ a:hover {
   border-bottom-color: currentColor;
 }
 
+a:focus-visible {
+  outline: 3px solid var(--accent-3);
+  outline-offset: 3px;
+}
+
+.skip-link {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 100;
+  padding: 9px 12px;
+  border-radius: var(--radius);
+  background: var(--ink);
+  color: #fff;
+  font: 700 0.9rem/1.3 var(--sans);
+  transform: translateY(-160%);
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
 .review-banner {
   background: #182427;
   color: #f5f2e8;
@@ -279,6 +301,22 @@ h3 {
   font: 0.92rem/1.5 var(--sans);
 }
 
+.card .pathway-question,
+.entry .pathway-question {
+  margin-top: 0;
+  color: var(--ink);
+  font-size: 1.03rem;
+  font-weight: 700;
+}
+
+.research-links {
+  font: 0.92rem/1.55 var(--sans);
+}
+
+.connections-list {
+  margin-top: 0;
+}
+
 .reflections-grid {
   grid-template-columns: minmax(0, 2fr) minmax(260px, 1fr);
 }
@@ -335,7 +373,7 @@ h3 {
   color: var(--muted);
 }
 
-.status-label {
+.card .status-label {
   display: inline-block;
   margin: 10px 0 0;
   padding: 4px 8px;

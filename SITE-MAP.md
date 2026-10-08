@@ -3,10 +3,11 @@
 ## Public orientation
 
 - `index.html` - research-centered personal homepage
-  - `#research` - current research areas and their relationships
-  - `#publications` - four featured current papers plus a compact list of additional current research, including four Research Lab working papers with direct-PDF primary links and secondary research-record links
-  - `#applied-work` - differentiated applied environments and tools
+  - `#research` - question-led entry points spanning understanding, prediction, society and human experience, AI evaluation, AI value/risk/management, and provenance
+  - `#publications` - question-led selected publications with canonical paper and research-record links
+  - `#applied-work` - differentiated released, private/internal, and public prototype work, including PAIM and APRM
   - `#project-cards` - retained compatibility fragment within Applied Work
+  - `#connections` - selected navigational connections between independent research and practical work, without shared-validation or unified-theory claims
   - `#reflections` - Essays & Reflections, kept distinct from the Research Lab working papers: a featured September 2026 manuscript above the reader-facing four-essay index and the separate, shorter Life Views collection
     - `#how-we-get-where-we-are` - featured manuscript block for *How We Get Where We Are*
   - `#about` - concise background and external links

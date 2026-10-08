@@ -1,6 +1,6 @@
 # honggaoc-star.github.io
 
-Research-centered personal website for Honggao Cao's independent research, publications, applied work, reflections, and background.
+Research-centered personal website for Honggao Cao's independent research, publications, practical projects, reflections, and background.
 
 This repository hosts the account-level GitHub Pages site at <https://honggaoc-star.github.io/>. The root page is an orientation and navigation surface: it introduces the current research agenda before directing visitors to publications, applied environments, reflections, and background.
 
@@ -8,7 +8,9 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 
 - Public personal research site on GitHub Pages.
 - The root `index.html` is the primary orientation page.
-- Homepage information hierarchy: Current Research, Selected Publications (AI-focused research and Research Lab working papers), Applied Work, Essays & Reflections (a featured September 2026 manuscript, four-essay index, and shorter Life Views), and About.
+- Homepage information hierarchy: question-led Research, Selected Publications, differentiated Applied Work, Related Paths, Essays & Reflections, and About.
+- Research and publication pathways place broader inquiries into understanding, prediction, society, institutions, luck, and human experience alongside AI-specific research while keeping independent claims and evidence distinct.
+- Applied Work distinguishes PAIM's bounded v0.1 release, private/internal APRM, and the three public educational or family-reading prototypes.
 - Publication links are reader-first: titles open canonical PDFs where available, with secondary research-record links for repository context. Research Lab working papers remain distinct from Essays & Reflections.
 - Existing public paths and support pages remain in place for backward compatibility.
 - Independent project sites retain their own content, scope, notes, disclaimers, and reuse boundaries.
@@ -43,6 +45,7 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 - Earlier Research: <https://honggaoc-star.github.io/practical-ai-sense/past-research.html>
 - Evidence-Centered AI Evaluation working paper: <https://honggaoc-star.github.io/practical-ai-evaluation/working-paper.html>
 - PAE Workbench: <https://honggaoc-star.github.io/practical-ai-evaluation/>
+- Practical AI Management v0.1.0: <https://github.com/honggaoc-star/PAIM/releases/tag/v0.1.0>
 - Practical AI Sense: <https://honggaoc-star.github.io/practical-ai-sense/>
 - Practical Life Sense: <https://honggaoc-star.github.io/practical-life-sense/>
 - Reflections / Life Views: <https://honggaoc-star.github.io/practical-ai-sense/life-views.html>
