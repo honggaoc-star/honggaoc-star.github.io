@@ -1,5 +1,14 @@
 # Release Notes
 
+## 2026-10-09 - Publication Edition Refresh (PR review)
+
+- Point all 13 current publication destinations to the approved versioned PDFs in Research-Lab and AI-Risk-Management, following their merged publication updates (Research-Lab #21 and AI-Risk-Management #12).
+- Use paper-level GitHub READMEs for Word copies, earlier editions, and research context; add secondary record links to the four essays.
+- Update current version/date metadata and the featured completed manuscript to v1.1, 54 pages, with its approved cover illustration retained in the linked PDF.
+- Preserve question-led organization, descriptions, visual styles, existing anchors and compatibility routes, and distinctions among independent working papers, essays, manuscripts, and historical records.
+- Retain the October 7 portfolio snapshots as history and add a dated current-edition inventory. No publication assets copied into the website repository.
+- Prepared for consolidated review; deployment awaits approval and merge.
+
 ## 2026-07-12 - Mature Portfolio Editorial Cleanup
 
 - Applied CT second editorial polish: shortened the hero title, refined the tagline, rebuilt About around biography/context, standardized Practical AI Evaluation naming, removed duplicate context-card links, added an About bridge, and redirected obsolete hub context pages to PAS.
