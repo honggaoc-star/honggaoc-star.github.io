@@ -4,11 +4,11 @@
 
 - `index.html` - research-centered personal homepage
   - `#research` - question-led entry points spanning understanding, prediction, society and human experience, AI evaluation, AI value/risk/management, and provenance
-  - `#publications` - question-led selected publications with canonical paper and research-record links
+  - `#publications` - question-led selected publications with current versioned PDF and paper-level README links for Word copies, version history, and research context
   - `#applied-work` - differentiated released, private/internal, and public prototype work, including PAIM and APRM
   - `#project-cards` - retained compatibility fragment within Applied Work
   - `#connections` - selected navigational connections between independent research and practical work, without shared-validation or unified-theory claims
-  - `#reflections` - Essays & Reflections, kept distinct from the Research Lab working papers: a featured September 2026 manuscript above the reader-facing four-essay index and the separate, shorter Life Views collection
+  - `#reflections` - Essays & Reflections, kept distinct from the Research Lab working papers: a featured September 2026 completed manuscript (v1.1, 54 pages, with its approved cover illustration) above the reader-facing four-essay index and the separate, shorter Life Views collection
     - `#how-we-get-where-we-are` - featured manuscript block for *How We Get Where We Are*
   - `#about` - concise background and external links
 - `about/index.html` - present research, approach, intellectual continuity, professional and academic background, and external links
@@ -34,3 +34,7 @@ No public paths are relocated in this reorientation. Independent project sites r
 ## Internal editorial reference
 
 - `PORTFOLIO-REGISTER.md` - canonical October 2026 inventory for portfolio roles, authoritative homes, bounded status language, navigational connections, and quarterly review
+
+## Current publication coverage
+
+All 13 approved editions are discoverable on the homepage: eight publications in Selected Publications (including all four Research-Lab working papers and the four AI-Risk-Management papers), plus the completed manuscript and four essays in Essays & Reflections. Evidence-Centered AI Evaluation remains an additional, independent publication outside this refresh. Each of the 13 titles opens its canonical PDF; its secondary record link opens the established GitHub README. No manuscript assets are hosted here.
