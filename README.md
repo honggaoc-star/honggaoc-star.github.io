@@ -56,3 +56,7 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 ## Boundary
 
 The applied environments are independent personal projects and educational/prototype materials. They are not professional advice, approval, certification, validation, compliance conclusions, or proof of safety.
+
+## Discoverability maintenance
+
+See [the technical baseline and Search Console checklist](docs/DISCOVERABILITY.md) for the Phase 1 audit, sitemap policy, before/after inventories, and repeatable checks. Paper landing-page work remains separate.
