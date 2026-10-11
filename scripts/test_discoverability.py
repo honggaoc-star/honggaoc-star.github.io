@@ -21,6 +21,17 @@ class AuditTests(unittest.TestCase):
                 code=audit.main()
             return code,json.loads(out.read_text())['findings']
     def test_valid_site(self):self.assertEqual(self.run_fixture(),(False,[]))
+    def test_missing_intended_page(self):
+        # A non-empty sitemap that omits the valid root must fail completeness.
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp)
+            (root/'index.html').write_text('<title>Test</title><meta name="description" content="Test"><link rel="canonical" href="'+audit.BASE+'">')
+            (root/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+audit.BASE+'sitemap.xml')
+            (root/'sitemap.xml').write_text('<urlset><url><loc>'+audit.BASE+'missing.html</loc></url></urlset>')
+            out=root/'result.json'
+            with patch.object(audit,'ROOT',root), patch('sys.argv',['check','--output',str(out)]), contextlib.redirect_stdout(io.StringIO()):
+                audit.main()
+            self.assertTrue(any('intended canonical page missing' in x for x in json.loads(out.read_text())['findings']))
     def test_external_sitemap(self):
         code,findings=self.run_fixture(extra_sitemap='<url><loc>https://example.org/</loc></url>')
         self.assertTrue(code);self.assertTrue(any('owned by this repository' in f for f in findings))

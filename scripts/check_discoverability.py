@@ -66,6 +66,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument('--live', action='store_true', help='Read deployed metadata/robots/sitemap, not local replacements')
     ap.add_argument('--network', action='store_true', help='Also fetch linked publication PDFs and records')
+    ap.add_argument('--external-only', action='store_true', help='With --network, skip owned live URLs for an undeployed candidate')
     ap.add_argument('--output', type=Path, required=True)
     args = ap.parse_args()
     pages = sorted(p for p in ROOT.rglob('*.html') if '.git' not in p.parts and not p.name.startswith('google'))
@@ -108,6 +109,9 @@ def main():
         pg = parsed[url]; header = fetched.get(url, {}).get('x_robots_tag', '').lower()
         if pg.refresh or pg.canonicals != [url] or any(x in pg.robots+' '+header for x in ('noindex', 'none')) or not robots.can_fetch('Googlebot', url): failures.append(url+': sitemap route is redirected/noncanonical/blocked')
         if args.live and fetched[url].get('final_url') != url: failures.append(url+': sitemap HTTP redirect')
+    intended = {url for url, pg in parsed.items() if not pg.refresh and pg.canonicals == [url] and not any(x in pg.robots for x in ('noindex', 'none')) and robots.can_fetch('Googlebot', url)}
+    for url in sorted(intended - set(sitemap)):
+        failures.append(url+': intended canonical page missing from sitemap')
     local_links, publication_urls, redirects = [], set(), []
     for url, pg in parsed.items():
         targets = list(pg.links)
@@ -126,16 +130,22 @@ def main():
                 local_links.append(target)
             elif u.netloc == urlsplit(BASE).netloc and not any(u.path.startswith('/'+n+'/') for n in ('practical-ai-sense','practical-ai-evaluation','practical-life-sense')):
                 failures.append(url+': missing local route '+target)
-            if u.netloc == 'github.com' and any('/'+n+'/' in u.path for n in ('Research-Lab','AI-Risk-Management')) and (u.path.endswith('.pdf') or u.path.endswith('/README.md')): publication_urls.add(target)
+            if u.netloc in ('github.com', 'raw.githubusercontent.com') and any('/'+n+'/' in u.path for n in ('Research-Lab','AI-Risk-Management')) and (u.path.endswith('.pdf') or u.path.endswith('/README.md')): publication_urls.add(target)
     network = []
     if args.network:
         targets = publication_urls | {r['target'].split('#')[0] for r in redirects}
         targets |= {u.split('#')[0] for u in local_links} | set(sitemap)
+        if args.external_only:
+            targets = {u for u in targets if local_path(u) is None}
         with ThreadPoolExecutor(max_workers=6) as pool:
             for r in pool.map(fetch, sorted(targets)):
-                r.pop('body'); network.append(r)
+                body = r.pop('body')
+                if urlsplit(r['url']).netloc == 'raw.githubusercontent.com' and urlsplit(r['url']).path.endswith('.pdf'):
+                    r['pdf_signature_verified'] = body.startswith(b'%PDF-')
+                    if not r['pdf_signature_verified']: failures.append(r['url']+': direct PDF target did not return PDF bytes')
+                network.append(r)
                 if r.get('status') != 200: failures.append(r['url']+': linked HTTP failure '+r.get('error', str(r.get('status'))))
-    report = {'checked_at_utc':datetime.now(timezone.utc).isoformat(), 'mode':'deployed' if args.live else 'local candidate',
+    report = {'checked_at_utc':datetime.now(timezone.utc).isoformat(), 'mode':'deployed' if args.live else 'local candidate', 'external_only':args.external_only,
               'inventory':inventory, 'sitemap':sitemap, 'local_links_checked':len(local_links), 'meta_redirects':redirects,
               'network_checks':network, 'findings':failures, 'passed':not failures,
               'limit':'Checks technical accessibility and declared directives, not Google indexing, ranking, or Scholar inclusion.'}

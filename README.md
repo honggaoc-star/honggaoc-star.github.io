@@ -60,3 +60,5 @@ The applied environments are independent personal projects and educational/proto
 ## Discoverability maintenance
 
 See [the technical baseline and Search Console checklist](docs/DISCOVERABILITY.md) for the Phase 1 audit, sitemap policy, before/after inventories, and repeatable checks. Paper landing-page work remains separate.
+
+The [two-paper discovery pilot](docs/PAPER-PILOT.md) adds abstracts and citations while retaining canonical publication hosting. Scholarly metadata limitations are documented explicitly.
