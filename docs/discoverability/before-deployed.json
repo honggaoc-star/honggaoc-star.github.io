@@ -1,0 +1,646 @@
+{
+  "checked_at_utc": "2026-10-11T22:53:24.360349+00:00",
+  "mode": "deployed",
+  "inventory": [
+    {
+      "url": "https://honggaoc-star.github.io/about/",
+      "path": "about/index.html",
+      "title": "About Honggao Cao",
+      "canonical": [
+        "https://honggaoc-star.github.io/about/"
+      ],
+      "description": [
+        "About Honggao Cao's independent research, approach, background in quantitative analytics and model governance, and external links."
+      ],
+      "meta_refresh": "",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/about/",
+        "final_url": "https://honggaoc-star.github.io/about/",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": []
+    },
+    {
+      "url": "https://honggaoc-star.github.io/background/",
+      "path": "background/index.html",
+      "title": "Past Research - Honggao Cao",
+      "canonical": [],
+      "description": [],
+      "meta_refresh": "",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/background/",
+        "final_url": "https://honggaoc-star.github.io/background/",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": [
+        "missing/non-self canonical",
+        "missing/duplicate description"
+      ]
+    },
+    {
+      "url": "https://honggaoc-star.github.io/background/past-research.html",
+      "path": "background/past-research.html",
+      "title": "Past Research - Redirect",
+      "canonical": [
+        "https://honggaoc-star.github.io/practical-ai-sense/past-research.html"
+      ],
+      "description": [
+        "Redirects to the Past Research page in Practical AI Sense."
+      ],
+      "meta_refresh": "0; url=https://honggaoc-star.github.io/practical-ai-sense/past-research.html",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/background/past-research.html",
+        "final_url": "https://honggaoc-star.github.io/background/past-research.html",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": []
+    },
+    {
+      "url": "https://honggaoc-star.github.io/",
+      "path": "index.html",
+      "title": "Honggao Cao | Independent Research and Practice",
+      "canonical": [
+        "https://honggaoc-star.github.io/"
+      ],
+      "description": [
+        "Independent research and practice on understanding, prediction, AI systems, evidence, institutions, luck, outcomes, and human experience."
+      ],
+      "meta_refresh": "",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/",
+        "final_url": "https://honggaoc-star.github.io/",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": []
+    },
+    {
+      "url": "https://honggaoc-star.github.io/method/",
+      "path": "method/index.html",
+      "title": "Method - Honggao Cao",
+      "canonical": [],
+      "description": [],
+      "meta_refresh": "",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/method/",
+        "final_url": "https://honggaoc-star.github.io/method/",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": [
+        "missing/non-self canonical",
+        "missing/duplicate description"
+      ]
+    },
+    {
+      "url": "https://honggaoc-star.github.io/projects/",
+      "path": "projects/index.html",
+      "title": "Projects - Honggao Cao",
+      "canonical": [],
+      "description": [],
+      "meta_refresh": "0; url=../index.html#project-cards",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/projects/",
+        "final_url": "https://honggaoc-star.github.io/projects/",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": []
+    },
+    {
+      "url": "https://honggaoc-star.github.io/projects/practical-ai-evaluation.html",
+      "path": "projects/practical-ai-evaluation.html",
+      "title": "Practical AI Evaluation - Hub Exhibit",
+      "canonical": [],
+      "description": [
+        "Hub exhibit page for Practical AI Evaluation, an evidence-centered framework and workbench for AI evaluation."
+      ],
+      "meta_refresh": "",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/projects/practical-ai-evaluation.html",
+        "final_url": "https://honggaoc-star.github.io/projects/practical-ai-evaluation.html",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": [
+        "missing/non-self canonical"
+      ]
+    },
+    {
+      "url": "https://honggaoc-star.github.io/projects/practical-ai-sense.html",
+      "path": "projects/practical-ai-sense.html",
+      "title": "Practical AI Sense - Hub Exhibit",
+      "canonical": [],
+      "description": [
+        "Hub exhibit page for Practical AI Sense, a structured AI literacy resource."
+      ],
+      "meta_refresh": "",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/projects/practical-ai-sense.html",
+        "final_url": "https://honggaoc-star.github.io/projects/practical-ai-sense.html",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": [
+        "missing/non-self canonical"
+      ]
+    },
+    {
+      "url": "https://honggaoc-star.github.io/projects/practical-life-sense.html",
+      "path": "projects/practical-life-sense.html",
+      "title": "Practical Life Sense - Hub Exhibit",
+      "canonical": [],
+      "description": [
+        "Hub exhibit page for Practical Life Sense, a family-oriented reading and conversation project."
+      ],
+      "meta_refresh": "",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/projects/practical-life-sense.html",
+        "final_url": "https://honggaoc-star.github.io/projects/practical-life-sense.html",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": [
+        "missing/non-self canonical"
+      ]
+    },
+    {
+      "url": "https://honggaoc-star.github.io/status/disclaimers.html",
+      "path": "status/disclaimers.html",
+      "title": "Disclaimers - Honggao Cao",
+      "canonical": [],
+      "description": [],
+      "meta_refresh": "",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/status/disclaimers.html",
+        "final_url": "https://honggaoc-star.github.io/status/disclaimers.html",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": [
+        "missing/non-self canonical",
+        "missing/duplicate description"
+      ]
+    },
+    {
+      "url": "https://honggaoc-star.github.io/status/",
+      "path": "status/index.html",
+      "title": "Release Context - Honggao Cao",
+      "canonical": [],
+      "description": [],
+      "meta_refresh": "",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/status/",
+        "final_url": "https://honggaoc-star.github.io/status/",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": [
+        "missing/non-self canonical",
+        "missing/duplicate description"
+      ]
+    },
+    {
+      "url": "https://honggaoc-star.github.io/status/release-gates.html",
+      "path": "status/release-gates.html",
+      "title": "Release Context - Honggao Cao",
+      "canonical": [],
+      "description": [],
+      "meta_refresh": "",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/status/release-gates.html",
+        "final_url": "https://honggaoc-star.github.io/status/release-gates.html",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": [
+        "missing/non-self canonical",
+        "missing/duplicate description"
+      ]
+    },
+    {
+      "url": "https://honggaoc-star.github.io/status/reviewer-links.html",
+      "path": "status/reviewer-links.html",
+      "title": "Repository Links - Honggao Cao",
+      "canonical": [],
+      "description": [],
+      "meta_refresh": "",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/status/reviewer-links.html",
+        "final_url": "https://honggaoc-star.github.io/status/reviewer-links.html",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": [
+        "missing/non-self canonical",
+        "missing/duplicate description"
+      ]
+    },
+    {
+      "url": "https://honggaoc-star.github.io/writing/",
+      "path": "writing/index.html",
+      "title": "Reflections - Honggao Cao",
+      "canonical": [],
+      "description": [],
+      "meta_refresh": "",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/writing/",
+        "final_url": "https://honggaoc-star.github.io/writing/",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": [
+        "missing/non-self canonical",
+        "missing/duplicate description"
+      ]
+    },
+    {
+      "url": "https://honggaoc-star.github.io/writing/life-views.html",
+      "path": "writing/life-views.html",
+      "title": "Reflections - Redirect",
+      "canonical": [
+        "https://honggaoc-star.github.io/practical-ai-sense/life-views.html"
+      ],
+      "description": [
+        "Redirects to the Life Views page in Practical AI Sense."
+      ],
+      "meta_refresh": "0; url=https://honggaoc-star.github.io/practical-ai-sense/life-views.html",
+      "robots_meta": "",
+      "robots_allowed": true,
+      "http": {
+        "url": "https://honggaoc-star.github.io/writing/life-views.html",
+        "final_url": "https://honggaoc-star.github.io/writing/life-views.html",
+        "status": 200,
+        "x_robots_tag": "",
+        "content_type": "text/html; charset=utf-8"
+      },
+      "findings": []
+    }
+  ],
+  "sitemap": [
+    "https://honggaoc-star.github.io/",
+    "https://honggaoc-star.github.io/about/",
+    "https://honggaoc-star.github.io/practical-ai-sense/",
+    "https://honggaoc-star.github.io/practical-ai-evaluation/",
+    "https://honggaoc-star.github.io/practical-life-sense/"
+  ],
+  "local_links_checked": 118,
+  "meta_redirects": [
+    {
+      "source": "https://honggaoc-star.github.io/background/past-research.html",
+      "target": "https://honggaoc-star.github.io/practical-ai-sense/past-research.html"
+    },
+    {
+      "source": "https://honggaoc-star.github.io/projects/",
+      "target": "https://honggaoc-star.github.io/index.html#project-cards"
+    },
+    {
+      "source": "https://honggaoc-star.github.io/writing/life-views.html",
+      "target": "https://honggaoc-star.github.io/practical-ai-sense/life-views.html"
+    }
+  ],
+  "network_checks": [
+    {
+      "url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems-v1.3.pdf",
+      "final_url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Analytical-Framework-on-Model-Error/An-Analytical-Framework-for-Error-and-Hallucination-in-Deployed-Generative-AI-Systems-v1.3.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Analytical-Framework-on-Model-Error/README.md",
+      "final_url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Analytical-Framework-on-Model-Error/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.1.pdf",
+      "final_url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.1.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md",
+      "final_url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems-v1.2.pdf",
+      "final_url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems-v1.2.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/README.md",
+      "final_url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Plausible-Mechanisms-for-Hallucination-in-Generative-AI-Systems/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Return-Weighted-Risk/README.md",
+      "final_url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Return-Weighted-Risk/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Return-Weighted-Risk/Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape-v1.2.pdf",
+      "final_url": "https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Return-Weighted-Risk/Return-Weighted-Risk-for-Navigating-an-Evolving-AI-Landscape-v1.2.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Life-Perspectives/Essays/Life-as-an-Unfolding-Process/Life-as-an-Unfolding-Process-v1.1.pdf",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Life-Perspectives/Essays/Life-as-an-Unfolding-Process/Life-as-an-Unfolding-Process-v1.1.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Life-Perspectives/Essays/Life-as-an-Unfolding-Process/README.md",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Life-Perspectives/Essays/Life-as-an-Unfolding-Process/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Research-on-Luck/Essays/Luck-in-a-Puzzling-World/Luck-in-a-Puzzling-World-v1.1.pdf",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Research-on-Luck/Essays/Luck-in-a-Puzzling-World/Luck-in-a-Puzzling-World-v1.1.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Research-on-Luck/Essays/Luck-in-a-Puzzling-World/README.md",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Research-on-Luck/Essays/Luck-in-a-Puzzling-World/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems-Synthesis/Manuscript/How-We-Get-Where-We-Are-v1.1.pdf",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems-Synthesis/Manuscript/How-We-Get-Where-We-Are-v1.1.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems-Synthesis/README.md",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems-Synthesis/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/Society-as-a-System-in-Pursuit-of-Outcomes-v1.1.pdf",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems/Essays/Society-as-a-System-in-Pursuit-of-Outcomes/Society-as-a-System-in-Pursuit-of-Outcomes-v1.1.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems/Essays/World-as-a-Puzzling-System/README.md",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems/Essays/World-as-a-Puzzling-System/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems/Essays/World-as-a-Puzzling-System/World-as-a-Puzzling-System-v1.1.pdf",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems/Essays/World-as-a-Puzzling-System/World-as-a-Puzzling-System-v1.1.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.1.pdf",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.1.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/README.md",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.1.pdf",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.1.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/README.md",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/README.md",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/The-World-Might-Not-Be-as-Complex-as-We-Thought-v1.1.pdf",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/The-World-Might-Not-Be-as-Complex-as-We-Thought-v1.1.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Why-Important-Questions-Are-Often-Difficult/README.md",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Why-Important-Questions-Are-Often-Difficult/README.md",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Why-Important-Questions-Are-Often-Difficult/Why-Important-Questions-Are-Often-Difficult-v1.1.pdf",
+      "final_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Why-Important-Questions-Are-Often-Difficult/Why-Important-Questions-Are-Often-Difficult-v1.1.pdf",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/",
+      "final_url": "https://honggaoc-star.github.io/",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/about/",
+      "final_url": "https://honggaoc-star.github.io/about/",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/about/index.html",
+      "final_url": "https://honggaoc-star.github.io/about/index.html",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/index.html",
+      "final_url": "https://honggaoc-star.github.io/index.html",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/practical-ai-evaluation/",
+      "final_url": "https://honggaoc-star.github.io/practical-ai-evaluation/",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/practical-ai-sense/",
+      "final_url": "https://honggaoc-star.github.io/practical-ai-sense/",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/practical-ai-sense/life-views.html",
+      "final_url": "https://honggaoc-star.github.io/practical-ai-sense/life-views.html",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/practical-ai-sense/past-research.html",
+      "final_url": "https://honggaoc-star.github.io/practical-ai-sense/past-research.html",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/practical-life-sense/",
+      "final_url": "https://honggaoc-star.github.io/practical-life-sense/",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/status/disclaimers.html",
+      "final_url": "https://honggaoc-star.github.io/status/disclaimers.html",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/status/release-gates.html",
+      "final_url": "https://honggaoc-star.github.io/status/release-gates.html",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/status/reviewer-links.html",
+      "final_url": "https://honggaoc-star.github.io/status/reviewer-links.html",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://honggaoc-star.github.io/styles.css",
+      "final_url": "https://honggaoc-star.github.io/styles.css",
+      "status": 200,
+      "x_robots_tag": "",
+      "content_type": "text/css; charset=utf-8"
+    }
+  ],
+  "findings": [
+    "https://honggaoc-star.github.io/background/: missing/non-self canonical",
+    "https://honggaoc-star.github.io/background/: missing/duplicate description",
+    "https://honggaoc-star.github.io/method/: missing/non-self canonical",
+    "https://honggaoc-star.github.io/method/: missing/duplicate description",
+    "https://honggaoc-star.github.io/projects/practical-ai-evaluation.html: missing/non-self canonical",
+    "https://honggaoc-star.github.io/projects/practical-ai-sense.html: missing/non-self canonical",
+    "https://honggaoc-star.github.io/projects/practical-life-sense.html: missing/non-self canonical",
+    "https://honggaoc-star.github.io/status/disclaimers.html: missing/non-self canonical",
+    "https://honggaoc-star.github.io/status/disclaimers.html: missing/duplicate description",
+    "https://honggaoc-star.github.io/status/: missing/non-self canonical",
+    "https://honggaoc-star.github.io/status/: missing/duplicate description",
+    "https://honggaoc-star.github.io/status/release-gates.html: missing/non-self canonical",
+    "https://honggaoc-star.github.io/status/release-gates.html: missing/duplicate description",
+    "https://honggaoc-star.github.io/status/reviewer-links.html: missing/non-self canonical",
+    "https://honggaoc-star.github.io/status/reviewer-links.html: missing/duplicate description",
+    "https://honggaoc-star.github.io/writing/: missing/non-self canonical",
+    "https://honggaoc-star.github.io/writing/: missing/duplicate description",
+    "https://honggaoc-star.github.io/practical-ai-sense/: sitemap URL is not a canonical HTML route owned by this repository",
+    "https://honggaoc-star.github.io/practical-ai-evaluation/: sitemap URL is not a canonical HTML route owned by this repository",
+    "https://honggaoc-star.github.io/practical-life-sense/: sitemap URL is not a canonical HTML route owned by this repository"
+  ],
+  "passed": false,
+  "limit": "Checks technical accessibility and declared directives, not Google indexing, ranking, or Scholar inclusion."
+}
