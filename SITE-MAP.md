@@ -38,3 +38,10 @@ No public paths are relocated in this reorientation. Independent project sites r
 ## Current publication coverage
 
 All 13 approved editions are discoverable on the homepage: eight publications in Selected Publications (including all four Research-Lab working papers and the four AI-Risk-Management papers), plus the completed manuscript and four essays in Essays & Reflections. Evidence-Centered AI Evaluation remains an additional, independent publication outside this refresh. Each of the 13 titles opens its canonical PDF; its secondary record link opens the established GitHub README. No manuscript assets are hosted here.
+
+## Paper discovery pilot
+
+- `papers/why-important-questions-are-often-difficult.html` - v1.1 abstract, citation, and authoritative publication links.
+- `papers/analytical-framework-error-hallucination.html` - v1.3 abstract, citation, and authoritative publication links.
+
+Both pages are linked from their existing homepage research cards and Selected Publications entries. Existing direct PDF and research-record links remain available.
