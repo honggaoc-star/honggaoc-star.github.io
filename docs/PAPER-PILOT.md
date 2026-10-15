@@ -33,3 +33,7 @@ python scripts/check_discoverability.py --network --external-only --output ../pi
 ```
 
 `--external-only` tests external destinations while validating local new routes, so draft pages are not incorrectly tested as if already deployed. After approved deployment, run `--live --network` without that flag and require all 14 sitemap entries and all routes to pass. Never interpret the candidate check as a deployment or indexing result.
+
+## October 15 extension
+
+The [three-paper overview extension](THREE-PAPER-OVERVIEWS.md) retains these conventions and the two original pilot pages unchanged. It adds three canonical pages, bringing the candidate sitemap to 17 entries. The 14-page command result above describes the original pilot checkpoint; after deployment of the extension, require 17 entries.

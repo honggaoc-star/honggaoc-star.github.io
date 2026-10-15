@@ -37,7 +37,7 @@ The visible Related Paths section was removed to reduce duplication, while its `
 
 ## Current publication coverage
 
-All 13 approved editions are discoverable on the homepage: eight publications in Selected Publications (including all four Research-Lab working papers and the four AI-Risk-Management papers), plus the completed manuscript and four essays in Essays & Reflections. Evidence-Centered AI Evaluation remains an additional, independent publication outside this refresh. Each of the 13 titles opens its canonical PDF; its secondary record link opens the established GitHub README. No manuscript assets are hosted here.
+All 16 approved editions are discoverable on the homepage: eleven publications in Selected Publications and Additional Papers (seven Research-Lab working papers and four AI-Risk-Management papers), plus the completed manuscript and four essays in Essays & Reflections. Evidence-Centered AI Evaluation remains an additional, independent publication. Each title retains a direct publication destination and its research record. No manuscript assets are hosted here.
 
 ## Paper discovery pilot
 
@@ -45,3 +45,11 @@ All 13 approved editions are discoverable on the homepage: eight publications in
 - `papers/analytical-framework-error-hallucination.html` - v1.3 abstract, citation, and authoritative publication links.
 
 Both pages are linked from their existing homepage research cards and Selected Publications entries. Existing direct PDF and research-record links remain available.
+
+## October 2026 paper-overview extension
+
+- `papers/inequality-mechanical-model-of-society.html` — Inequality in the Context of a Mechanical Model of Society, Working Paper v1.0, October 2026.
+- `papers/value-and-evolution-of-governance.html` — The Value and Evolution of Governance, Working Paper v1.0, October 2026.
+- `papers/a-second-life.html` — A Second Life, Working Paper v1.0, October 2026.
+
+The three pages are linked from Additional Papers. The existing four featured cards and six Research Questions categories remain unchanged. There is no new Publications directory page. The XML sitemap contains 17 canonical pages.

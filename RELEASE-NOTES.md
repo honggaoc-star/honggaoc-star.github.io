@@ -1,5 +1,12 @@
 # Release Notes
 
+## 2026-10-15 - Three Working-Paper Overviews (draft review)
+
+- Add reader-oriented overviews for Inequality, Governance, and A Second Life, using the approved October 2026 v1.0 editions from Research-Lab PR #22.
+- Preserve complete abstracts and authoritative PDF/Word hosting; add three concise Additional Papers entries without changing featured cards or research categories.
+- Extend the sitemap to 17 canonical pages and update publication inventories and source records.
+- Preserve existing pages, navigation, manuscript links, styles, and project boundaries. No deployment is claimed; review and merge remain pending.
+
 ## 2026-10-09 - Publication Edition Refresh (PR review)
 
 - Point all 13 current publication destinations to the approved versioned PDFs in Research-Lab and AI-Risk-Management, following their merged publication updates (Research-Lab #21 and AI-Risk-Management #12).

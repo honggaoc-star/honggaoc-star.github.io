@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Inequality in the Context of a Mechanical Model of Society",
+    "subtitle": "Nature, Nurture, and the Separation of Mechanism from Correction",
+    "author": "Honggao Cao",
+    "manuscript_date": "October 2026",
+    "version": "v1.0",
+    "status": "Working paper",
+    "citation_publication_date": "2026",
+    "abstract_paragraphs": [
+      "Inequality can rise even when efforts to moderate it are making a substantial difference. This paper examines how accumulation and correction interact through a mechanical baseline in which heterogeneous endowments and accumulated outcomes reinforce one another. Starting from equal outcomes, the baseline produces a rising mean and increasing inequality. A budget-balanced transfer example shows why equalizing current stocks need not prevent renewed divergence: inequality subsequently rises, but remains substantially below the uncorrected outcome. We distinguish that corrective effect from the further improvement attainable under the available interventions. The latter comparison requires an efficient frontier defined for a specified mechanism, correction technology, timing, and horizon. Together, the baseline and frontier organize questions about what correction changes, what continues to generate inequality, and what further combinations of mean and inequality are achievable. The purpose is to make correction intelligible without losing sight of the continuing process it modifies."
+    ],
+    "word_url": "https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/Inequality-in-the-Context-of-a-Mechanical-Model-of-Society/Inequality-in-the-Context-of-a-Mechanical-Model-of-Society-v1.0.docx",
+    "word_sha256": "3bc8392d340bc3c0322d7afc9815f4775f12f1e2eaa5d8e54e5c94ca42879055",
+    "pdf_url": "https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/Inequality-in-the-Context-of-a-Mechanical-Model-of-Society/Inequality-in-the-Context-of-a-Mechanical-Model-of-Society-v1.0.pdf",
+    "pdf_sha256": "7201e34c0ae77bba7799bd61ac427551846de95a5ec1e486d293025833cb7290",
+    "record_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Inequality-in-the-Context-of-a-Mechanical-Model-of-Society/README.md",
+    "source_commit": "6d0baeb7fefdd9d8d34176ce5a6b457e3fe4c843",
+    "citation_pdf_url_omitted": "External repository hosting; same-directory Google Scholar requirement is not met.",
+    "path": "papers/inequality-mechanical-model-of-society.html",
+    "canonical": "https://honggaoc-star.github.io/papers/inequality-mechanical-model-of-society.html",
+    "citation_title": "Inequality in the Context of a Mechanical Model of Society: Nature, Nurture, and the Separation of Mechanism from Correction"
+  },
+  {
+    "title": "The Value and Evolution of Governance",
+    "subtitle": null,
+    "author": "Honggao Cao",
+    "manuscript_date": "October 2026",
+    "version": "v1.0",
+    "status": "Working paper",
+    "citation_publication_date": "2026",
+    "abstract_paragraphs": [
+      "Governance arrangements are often evaluated through their founding principles, formal rules, or observed outcomes. Yet the same formal arrangement may operate differently over time, and similar arrangements may respond differently to changing circumstances. An electoral victory authorizes governing authority under specified rules without establishing how effectively that authority will be exercised. Institutions may persist despite widespread dissatisfaction, while arrangements that once served a society well may gradually lose their capacity to recognize or correct emerging problems.",
+      "This essay examines these puzzles by distinguishing the instrumental and procedural value of governance, formal authority from its effective exercise, and institutional persistence from institutional adequacy. We consider how governing arrangements shape the incentives and information available to their participants, how those arrangements evolve, and why recognized inadequacies may remain uncorrected. Particular attention is given to the institutional conditions supporting self-correction, including information access, opportunities to challenge authority, and the continuity of essential governing functions during institutional change.",
+      "Drawing on established research and stylized examples, we examine how different mechanisms can produce similar governance phenomena and what observations may help distinguish them. This approach connects the evaluation of governance with the explanation of institutional behavior: understanding why an arrangement operates or persists as it does helps identify which changes might improve it, while a judgment of improvement requires a stated evaluative standard."
+    ],
+    "word_url": "https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/The_Value_and_Evolution_of_Governance/The_Value_and_Evolution_of_Governance_v1.0.docx",
+    "word_sha256": "cb9e98e92dd92e96405252f51330bb6a69f0bfd83d509211181c54eb95227988",
+    "pdf_url": "https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/The_Value_and_Evolution_of_Governance/The_Value_and_Evolution_of_Governance_v1.0.pdf",
+    "pdf_sha256": "ab785fbe439722f663654bded7f540be6e0928dd8c96e85e17a720fa2f95f6fe",
+    "record_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/The_Value_and_Evolution_of_Governance/README.md",
+    "source_commit": "6d0baeb7fefdd9d8d34176ce5a6b457e3fe4c843",
+    "citation_pdf_url_omitted": "External repository hosting; same-directory Google Scholar requirement is not met.",
+    "path": "papers/value-and-evolution-of-governance.html",
+    "canonical": "https://honggaoc-star.github.io/papers/value-and-evolution-of-governance.html",
+    "citation_title": "The Value and Evolution of Governance"
+  },
+  {
+    "title": "A Second Life",
+    "subtitle": "Opportunity, Choice, and Luck Along the Roads Not Taken",
+    "author": "Honggao Cao",
+    "manuscript_date": "October 2026",
+    "version": "v1.0",
+    "status": "Working paper",
+    "citation_publication_date": "2026",
+    "abstract_paragraphs": [
+      "Imagine living a second life: would we make the same choices, and what might have followed from opportunities we missed or never encountered? Through a long-tenured professional, a lifelong hometown resident, and a student who narrowly misses a medical-school qualification, this essay examines what a realized life can conceal about aspirations, attempted choices, constraints, and consequential events. It distinguishes historical reconstruction of what occurred from scenario analysis of what might have occurred, and considers how opportunity, choice, and luck shape both subsequent possibilities and retrospective judgments. Although alternative lives cannot be observed, revisiting the roads not taken can deepen our understanding of the life we actually lived."
+    ],
+    "word_url": "https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/A-Second-Life/A_Second_Life_v1.0.docx",
+    "word_sha256": "b7ad3fc8a9672e8564c0dda6d3dbbec2d85f06071c24cec35078ba6471cc5736",
+    "pdf_url": "https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/A-Second-Life/A_Second_Life_v1.0.pdf",
+    "pdf_sha256": "b2c84be783fba8b2dc0db3988092f53e68bb374dc99b8cc900feb3f475f284bc",
+    "record_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/A-Second-Life/README.md",
+    "source_commit": "6d0baeb7fefdd9d8d34176ce5a6b457e3fe4c843",
+    "citation_pdf_url_omitted": "External repository hosting; same-directory Google Scholar requirement is not met.",
+    "path": "papers/a-second-life.html",
+    "canonical": "https://honggaoc-star.github.io/papers/a-second-life.html",
+    "citation_title": "A Second Life: Opportunity, Choice, and Luck Along the Roads Not Taken"
+  }
+]
