@@ -8,7 +8,7 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 
 - Public personal research site on GitHub Pages.
 - The root `index.html` is the primary orientation page.
-- Homepage information hierarchy: question-led Research, Selected Publications, differentiated Applied Work, Related Paths, Essays & Reflections, and About.
+- Homepage information hierarchy: question-led Research, Selected Publications, differentiated Applied Work, Essays & Reflections, and About.
 - Research and publication pathways place broader inquiries into understanding, prediction, society, institutions, luck, and human experience alongside AI-specific research while keeping independent claims and evidence distinct.
 - Applied Work distinguishes PAIM's bounded v0.1 release, private/internal APRM, and the three public educational or family-reading prototypes.
 - Publication links are reader-first: titles open canonical PDFs where available, with secondary research-record links for repository context. Research Lab working papers remain distinct from Essays & Reflections.
@@ -18,6 +18,7 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 ## Contents
 
 - `index.html` - research-centered homepage and primary navigation map
+- `papers/` - five reader-oriented publication overviews with approved abstracts and authoritative manuscript links
 - `about/` - present research, approach, intellectual continuity, professional and academic background, and external links
 - `projects/` - retained compatibility and support exhibit pages for independent applied-work sites
 - `background/` - retained support routes for the earlier-research record
@@ -30,6 +31,9 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 
 ## External Research and Project Destinations
 
+- Inequality in the Context of a Mechanical Model of Society — v1.0: [Overview](papers/inequality-mechanical-model-of-society.html) · [PDF](https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/Inequality-in-the-Context-of-a-Mechanical-Model-of-Society/Inequality-in-the-Context-of-a-Mechanical-Model-of-Society-v1.0.pdf) · [Word, versions, and research record](https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Inequality-in-the-Context-of-a-Mechanical-Model-of-Society/README.md)
+- The Value and Evolution of Governance — v1.0: [Overview](papers/value-and-evolution-of-governance.html) · [PDF](https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/The_Value_and_Evolution_of_Governance/The_Value_and_Evolution_of_Governance_v1.0.pdf) · [Word, versions, and research record](https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/The_Value_and_Evolution_of_Governance/README.md)
+- A Second Life — v1.0: [Overview](papers/a-second-life.html) · [PDF](https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/A-Second-Life/A_Second_Life_v1.0.pdf) · [Word, versions, and research record](https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/A-Second-Life/README.md)
 - How We Get Where We Are — v1.1: [PDF](https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems-Synthesis/Manuscript/How-We-Get-Where-We-Are-v1.1.pdf) · [Word, versions, and research record](https://github.com/honggaoc-star/Research-Lab/blob/main/Social-Systems-Synthesis/README.md)
 - AI Evolution as an Advancing Approximation Frontier — v1.1: [PDF](https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.1.pdf) · [Word, versions, and research record](https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/README.md)
 - AI Provenance and the Evaluation of Intellectual Work — v1.1: [PDF](https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/AI-Provenance-and-the-Evaluation-of-Intellectual-Work-v1.1.pdf) · [Word, versions, and research record](https://github.com/honggaoc-star/AI-Risk-Management/blob/main/Essays/AI-Provenance-and-the-Evaluation-of-Intellectual-Work/README.md)
@@ -62,3 +66,5 @@ The applied environments are independent personal projects and educational/proto
 See [the technical baseline and Search Console checklist](docs/DISCOVERABILITY.md) for the Phase 1 audit, sitemap policy, before/after inventories, and repeatable checks. Paper landing-page work remains separate.
 
 The [two-paper discovery pilot](docs/PAPER-PILOT.md) adds abstracts and citations while retaining canonical publication hosting. Scholarly metadata limitations are documented explicitly.
+
+The [three-paper extension](docs/THREE-PAPER-OVERVIEWS.md) follows the pilot conventions, adds the October 2026 working papers, and documents the candidate checks and research-direction note.
