@@ -73,3 +73,7 @@ These checks validate the local draft and existing external destinations. After 
 ## Maintenance
 
 For a new release, verify the controlling record before changing the directory entry. Retain one current entry per work, point historical editions to their records, and add an overview link only when that page exists. The homepage may remain selective; adding a directory entry does not require a new homepage entry or a category redesign. Update this coverage note and the sitemap only when their respective scope changes.
+
+## Current overview coverage — October 15, 2026 candidate
+
+The [remaining working-paper overviews](REMAINING-WORKING-PAPER-OVERVIEWS.md) complete all seven Research-Lab working-paper pages. Together with Analytical Framework, the directory links eight overview pages. The candidate sitemap has 21 canonical URLs; earlier counts above describe dated checkpoints. Source fidelity, hashes, navigation choices, and candidate validation are documented in the completion note. External PDF hosting and the omission of `citation_pdf_url` remain unchanged. Live deployment and indexing require separate evidence.

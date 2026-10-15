@@ -128,3 +128,7 @@ At each quarterly portfolio review:
 3. Test repository, public-destination, and documentation links without replacing established URLs unnecessarily.
 4. Add a project only after its authoritative home and role are clear; remove or archive an entry only through an explicit portfolio decision.
 5. Record the new review date and summarize material register changes in the pull request. Do not duplicate artifacts or expand a project's claims while updating this file.
+
+## Reader overview coverage
+
+The Publications directory links all seven Research-Lab working-paper overviews and the established Analytical Framework overview. The [completion record](docs/REMAINING-WORKING-PAPER-OVERVIEWS.md) documents the three remaining v1.1 pages and authoritative artifact hashes. Publication homes, recommended editions, project boundaries, and the 17-work inventory are unchanged.

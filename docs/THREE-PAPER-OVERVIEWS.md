@@ -49,4 +49,8 @@ This is an undeployed draft. After approval and deployment, run `--live --networ
 
 ## Current publication navigation
 
-The [Publications directory](../publications/index.html) now provides the complete current inventory and all five overview links. The homepage retains a representative selection. The directory candidate has 18 canonical sitemap entries; counts and homepage placements above describe the earlier implementation checkpoint. See [publication navigation maintenance](PUBLICATIONS.md).
+The [Publications directory](../publications/index.html) provides the complete current inventory and all eight overview links. The homepage retains a representative selection. The current overview-completion candidate has 21 canonical sitemap entries; counts and homepage placements above describe earlier implementation checkpoints. See [publication navigation maintenance](PUBLICATIONS.md).
+
+## Current overview coverage — October 15, 2026 candidate
+
+The [remaining working-paper overviews](REMAINING-WORKING-PAPER-OVERVIEWS.md) complete all seven Research-Lab working-paper pages. Together with Analytical Framework, the directory links eight overview pages. The candidate sitemap has 21 canonical URLs; earlier counts above describe dated checkpoints. Source fidelity, hashes, navigation choices, and candidate validation are documented in the completion note. External PDF hosting and the omission of `citation_pdf_url` remain unchanged. Live deployment and indexing require separate evidence.

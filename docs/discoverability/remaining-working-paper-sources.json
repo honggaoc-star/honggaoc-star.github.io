@@ -1,0 +1,80 @@
+[
+  {
+    "title": "AI Evolution as an Advancing Approximation Frontier",
+    "subtitle": null,
+    "author": "Honggao Cao",
+    "manuscript_date": "October 2026",
+    "version": "v1.1",
+    "status": "Working paper",
+    "citation_publication_date": "2026",
+    "abstract_paragraphs": [
+      "AI development is often described as progress toward increasingly capable systems. This paper asks a different question: how does successful progress change the development problems that remain? It treats AI development as an advancing approximation process in which artificial systems increasingly reproduce, exceed, or substitute for functions associated with intelligent human performance through mechanisms that can differ substantially from those that generate human intelligence.",
+      "We develop a conditional account of frontier change. Differential resolution is one mechanism: when some development problems resolve faster than others, progress can change the composition of the unresolved frontier rather than simply reduce its size. This motivates the empirical hypothesis that dimensions with weakly specified or difficult-to-evaluate targets may resolve more slowly than dimensions with clearer targets and feedback. Other mechanisms can change the frontier through different routes: capability can outrun evaluation, human practices and evaluative standards can alter the reference conditions for later systems, and AI can increasingly participate in the development of successor systems.",
+      "These mechanisms also create a diagnostic problem. Developers may face several plausible explanations of a current limitation, each implying different interventions, while the system being diagnosed continues to change. We use Prediction–Attribution Conjugacy, developed in earlier work, to examine when such explanations are structurally distinguishable, when they are identifiable in practice, and when diagnostic learning may race against frontier movement.",
+      "The central contribution of the paper is an account of how AI progress can change the composition, visibility, reference conditions, and developmental structure of the problems that come next. Questions about a fixed AI ceiling or a particular architectural succession remain open."
+    ],
+    "word_url": "https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.1.docx",
+    "word_sha256": "4da33410139c8f303bc2e8b7589e85761526034bd161348743d676ece6936a73",
+    "word_bytes": 32162,
+    "pdf_url": "https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/AI-Evolution-as-an-Advancing-Approximation-Frontier-v1.1.pdf",
+    "pdf_sha256": "63ed41bfc34bde8be295d705b3d356bcedb370ad0be10109578904dd7a5fd3f8",
+    "pdf_bytes": 277356,
+    "record_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/AI-Evolution-as-an-Advancing-Approximation-Frontier/README.md",
+    "source_commit": "6d0baeb7fefdd9d8d34176ce5a6b457e3fe4c843",
+    "approved_package_sha256": "796c425889cce2efc8115021bbff4f5a074b028f42d1c50a2f601c3f6cf70b70",
+    "citation_pdf_url_omitted": "External repository hosting; same-directory Google Scholar requirement is not met.",
+    "path": "papers/ai-evolution-advancing-approximation-frontier.html",
+    "canonical": "https://honggaoc-star.github.io/papers/ai-evolution-advancing-approximation-frontier.html",
+    "citation_title": "AI Evolution as an Advancing Approximation Frontier"
+  },
+  {
+    "title": "Prediction–Attribution Conjugacy in Adaptive Decision Problems",
+    "subtitle": null,
+    "author": "Honggao Cao",
+    "manuscript_date": "October 2026",
+    "version": "v1.1",
+    "status": "Working paper",
+    "citation_publication_date": "2026",
+    "abstract_paragraphs": [
+      "Many consequential decisions require both a forecast and an account of which parts or relations within a system matter for action. We examine adaptive decision problems in which decision makers consider structural accounts, make prospective predictions, act, and revise their understanding as outcomes become available. Prediction and attribution become diagnostically reciprocal when competing accounts imply different outcomes under the same informative condition, allowing later observations to change their relative credibility. We call this relationship prediction–attribution conjugacy. The framework distinguishes that diagnostic core from learning and from the system’s response to action. These distinctions help explain why routine predictive stability may leave attribution unresolved, why successful intervention can weaken an old predictive signal, and why diagnostic learning may be overtaken by structural change. Examples from finance, clinical trials, and public policy show how the usefulness of the framework depends on the decision, the available diagnostic comparisons, and what action changes."
+    ],
+    "word_url": "https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.1.docx",
+    "word_sha256": "ea216f37420543999ba6acd0d20d8d6e3584a16a064151e8979384fef36cbf8e",
+    "word_bytes": 53686,
+    "pdf_url": "https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems-v1.1.pdf",
+    "pdf_sha256": "fbfdfe56674f3967c683ce454f3437ec0b9a685a43a7b17882f6175059d2ae45",
+    "pdf_bytes": 392902,
+    "record_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/Prediction-Attribution-Conjugacy-in-Adaptive-Decision-Problems/README.md",
+    "source_commit": "6d0baeb7fefdd9d8d34176ce5a6b457e3fe4c843",
+    "approved_package_sha256": "796c425889cce2efc8115021bbff4f5a074b028f42d1c50a2f601c3f6cf70b70",
+    "citation_pdf_url_omitted": "External repository hosting; same-directory Google Scholar requirement is not met.",
+    "path": "papers/prediction-attribution-conjugacy.html",
+    "canonical": "https://honggaoc-star.github.io/papers/prediction-attribution-conjugacy.html",
+    "citation_title": "Prediction–Attribution Conjugacy in Adaptive Decision Problems"
+  },
+  {
+    "title": "The World Might Not Be as Complex as We Thought",
+    "subtitle": "The Roles of Scale, Perspective, and Information in Human Understanding",
+    "author": "Honggao Cao",
+    "manuscript_date": "September 2026",
+    "version": "v1.1",
+    "status": "Working paper",
+    "citation_publication_date": "2026",
+    "abstract_paragraphs": [
+      "A phenomenon can appear fragmented or difficult to understand because the conditions under which we encounter it reveal only part of its structure, or because we have yet to connect the information already available. We examine this possibility through a framework that distinguishes two analytical stages: a world, object, or process becomes available as information under a particular scale and perspective, and an analyst organizes that information into understanding. This distinction helps locate different sources of apparent complexity. A relevant relationship may remain inaccessible under the operative observation conditions; its informational basis may be available but insufficiently organized; or descriptions obtained under different conditions may each be intelligible while their connection remains unclear. Physical, organizational, temporal, and mathematical examples develop these possibilities and show why additional observations and better understanding need not advance together. An aggregation identity provides an explicit example of a bridge between descriptions at different scales. We then situate the argument in earlier work on observation, scale, information, explanation, and connections among theories. The resulting account offers a way to investigate where an apparent difficulty arises and what kind of inquiry may address it. The world can remain rich and genuinely difficult while some of its apparent complexity reflects how its relationships become accessible and connected to us."
+    ],
+    "word_url": "https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/The-World-Might-Not-Be-as-Complex-as-We-Thought-v1.1.docx",
+    "word_sha256": "b07df14bf42924f9ae2110db22a41f424b9d1e8ed36fa24557dbe56d2afa0384",
+    "word_bytes": 44064,
+    "pdf_url": "https://raw.githubusercontent.com/honggaoc-star/Research-Lab/main/Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/The-World-Might-Not-Be-as-Complex-as-We-Thought-v1.1.pdf",
+    "pdf_sha256": "b2f024e4e9feffb30ba80894dbc3bfac399eed7b986f73c7888bb36a6a50fecd",
+    "pdf_bytes": 296408,
+    "record_url": "https://github.com/honggaoc-star/Research-Lab/blob/main/Working-Papers/The-World-Might-Not-Be-as-Complex-as-We-Thought/README.md",
+    "source_commit": "6d0baeb7fefdd9d8d34176ce5a6b457e3fe4c843",
+    "approved_package_sha256": "796c425889cce2efc8115021bbff4f5a074b028f42d1c50a2f601c3f6cf70b70",
+    "citation_pdf_url_omitted": "External repository hosting; same-directory Google Scholar requirement is not met.",
+    "path": "papers/world-might-not-be-as-complex.html",
+    "canonical": "https://honggaoc-star.github.io/papers/world-might-not-be-as-complex.html",
+    "citation_title": "The World Might Not Be as Complex as We Thought: The Roles of Scale, Perspective, and Information in Human Understanding"
+  }
+]

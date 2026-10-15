@@ -1,5 +1,13 @@
 # Release Notes
 
+## Draft — Complete Research-Lab working-paper overviews
+
+- Add reader-oriented pages for AI Evolution, Prediction–Attribution Conjugacy, and The World Might Not Be as Complex as We Thought, preserving approved abstracts and v1.1 publication metadata.
+- Add three directory overview links and one link in AI Evolution's existing featured card; preserve all 17 entries and homepage selections.
+- Retain the 18 existing canonical sitemap entries and add three, for 21. Record source hashes and candidate validation in [the completion note](docs/REMAINING-WORKING-PAPER-OVERVIEWS.md).
+- No manuscript copies, new publication claims, research-program transition statement, or indexing requests.
+
+
 ## 2026-10-15 - Publications Directory (draft review)
 
 - Add `/publications/` as the complete current directory of 17 works, with publication status, year, version, authoritative reading/record links and all five existing overviews.
