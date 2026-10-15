@@ -4,7 +4,6 @@
 
 - Add reader-oriented overviews for Inequality, Governance, and A Second Life, using the approved October 2026 v1.0 editions from Research-Lab PR #22.
 - Preserve complete abstracts and authoritative PDF/Word hosting; add three concise Additional Papers entries without changing featured cards or research categories.
-- Add a brief author-specified provisional research-direction note on About.
 - Extend the sitemap to 17 canonical pages and update publication inventories and source records.
 - Preserve existing pages, navigation, manuscript links, styles, and project boundaries. No deployment is claimed; review and merge remain pending.
 

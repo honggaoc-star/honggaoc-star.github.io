@@ -11,7 +11,7 @@
   - `#reflections` - Essays & Reflections, kept distinct from the Research Lab working papers: a featured September 2026 completed manuscript (v1.1, 54 pages, with its approved cover illustration) above the reader-facing four-essay index and the separate, shorter Life Views collection
     - `#how-we-get-where-we-are` - featured manuscript block for *How We Get Where We Are*
   - `#about` - concise background and external links
-- `about/index.html` - present research, approach, intellectual continuity, professional and academic background, a brief current-direction note, and external links
+- `about/index.html` - present research, approach, intellectual continuity, professional and academic background, and external links
 
 ## Preserved support routes
 

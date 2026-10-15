@@ -36,4 +36,4 @@ python scripts/check_discoverability.py --network --external-only --output ../pi
 
 ## October 15 extension
 
-The [three-paper overview extension](THREE-PAPER-OVERVIEWS.md) retains these conventions and the two original pilot pages unchanged. It adds three canonical pages, bringing the candidate sitemap to 17 entries. The 14-page command result above describes the original pilot checkpoint; after deployment of the extension, require 17 entries. The website discovery phases are separate from the author’s research-emphasis phases described on About.
+The [three-paper overview extension](THREE-PAPER-OVERVIEWS.md) retains these conventions and the two original pilot pages unchanged. It adds three canonical pages, bringing the candidate sitemap to 17 entries. The 14-page command result above describes the original pilot checkpoint; after deployment of the extension, require 17 entries.

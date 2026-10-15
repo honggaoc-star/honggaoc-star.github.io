@@ -24,14 +24,6 @@ Option B would make a separate complete directory easier to scan as the portfoli
 
 The original 13 approved editions, Evidence-Centered AI Evaluation, applied work, and all existing homepage articles and links are retained. With these three additions, the homepage provides 16 approved editions plus the separate Evidence-Centered AI Evaluation paper. The XML sitemap retains its original 14 entries and adds three, for 17 canonical pages.
 
-## Research direction
-
-A short Current Direction section on About follows Research Approach. Its text is:
-
-> I regard Phase I of my research as provisionally complete: a period focused primarily on analytical frameworks, perspectives, and conceptual understanding. In Phase II, I intend to place greater emphasis on practically meaningful problems, beginning with an investigation of machine-learning explainability. This is a shift in emphasis within independent inquiries, not a resolution of all earlier questions. Earlier ideas remain available to inform the work, but need not determine its conclusions.
-
-This wording comes from the author's instructions, not an inferred publication claim. It neither reopens closed projects nor claims completed explainability results. These research-emphasis phases are distinct from the website discoverability implementation phases in issue #20.
-
 ## Discovery boundary and verification
 
 The conventions in [PAPER-PILOT.md](PAPER-PILOT.md) remain in force: citation title, author and verified year only; no `citation_pdf_url` for externally hosted PDFs and no manuscript copies on this website. External hosting does not satisfy the documented Google Scholar same-directory requirement. Technical accessibility does not establish indexing, ranking, or Scholar inclusion.
@@ -43,7 +35,7 @@ Candidate checks:
 - All six authoritative Word/PDF downloads match approved hashes and sizes; all three publication records are accessible.
 - Exact abstract paragraphs, citation title/author/year, canonical URLs, version/status, and PDF/record destinations checked against source metadata.
 - Existing homepage articles, prior hrefs and IDs, both pilot pages, and shared CSS preserved.
-- Headless Chromium checks passed for all five changed/new HTML pages at 1440px, 390px and 320px (15 combinations): no horizontal overflow, one H1, sequential headings, named primary navigation, keyboard-reachable links with visible focus, working skip links, and sticky headers. Rendered screenshots were inspected for readable titles, abstracts, buttons and layout.
+- Headless Chromium checks passed for the homepage, About, and all three new overview pages at 1440px, 390px and 320px (15 combinations): no horizontal overflow, one H1, sequential headings, named primary navigation, keyboard-reachable links with visible focus, working skip links, and sticky headers. Rendered screenshots were inspected for readable titles, abstracts, buttons and layout.
 - These are browser and accessibility-basics checks, not a full screen-reader or cross-browser certification. No live deployment or new indexing result is claimed.
 
 Reproduce the route and network audit from the repository root:

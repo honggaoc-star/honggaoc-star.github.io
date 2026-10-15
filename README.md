@@ -67,4 +67,4 @@ See [the technical baseline and Search Console checklist](docs/DISCOVERABILITY.m
 
 The [two-paper discovery pilot](docs/PAPER-PILOT.md) adds abstracts and citations while retaining canonical publication hosting. Scholarly metadata limitations are documented explicitly.
 
-The [three-paper extension](docs/THREE-PAPER-OVERVIEWS.md) follows the pilot conventions, adds the October 2026 working papers, and documents the candidate checks and research-direction note.
+The [three-paper extension](docs/THREE-PAPER-OVERVIEWS.md) follows the pilot conventions, adds the October 2026 working papers, and documents the candidate checks.
