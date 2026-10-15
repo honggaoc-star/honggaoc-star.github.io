@@ -3,11 +3,11 @@
 ## Public orientation
 
 - `index.html` - research-centered personal homepage
-  - `#research` - question-led entry points spanning understanding, prediction, society and human experience, AI evaluation, AI value/risk/management, and provenance
-  - `#publications` - question-led selected publications with current versioned PDF and paper-level README links for Word copies, version history, and research context
+  - `#research` - six concise question-led entry points spanning understanding, prediction, society and human experience, AI evaluation, AI value/risk/management, and provenance
+  - `#publications` - question-led selected publications, including an Additional Papers list, with current versioned PDF and paper-level README links for Word copies, version history, and research context
   - `#applied-work` - differentiated released, private/internal, and public prototype work, including PAIM and APRM
   - `#project-cards` - retained compatibility fragment within Applied Work
-  - `#connections` - selected navigational connections between independent research and practical work, without shared-validation or unified-theory claims
+  - `#connections` - retained compatibility fragment; related reading paths remain in research entries and canonical publication records
   - `#reflections` - Essays & Reflections, kept distinct from the Research Lab working papers: a featured September 2026 completed manuscript (v1.1, 54 pages, with its approved cover illustration) above the reader-facing four-essay index and the separate, shorter Life Views collection
     - `#how-we-get-where-we-are` - featured manuscript block for *How We Get Where We Are*
   - `#about` - concise background and external links
@@ -29,7 +29,7 @@
 - `status/reviewer-links.html` - public repository links
 - `status/release-gates.html` - release-context notes
 
-No public paths are relocated in this reorientation. Independent project sites remain separate experiences and are linked rather than duplicated.
+The visible Related Paths section was removed to reduce duplication, while its `#connections` fragment remains for compatibility. The research and publication entries still link related work. No public paths are relocated in this reorientation. Independent project sites remain separate experiences and are linked rather than duplicated.
 
 ## Internal editorial reference
 
