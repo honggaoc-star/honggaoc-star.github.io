@@ -4,13 +4,14 @@
 
 - `index.html` - research-centered personal homepage
   - `#research` - six concise question-led entry points spanning understanding, prediction, society and human experience, AI evaluation, AI value/risk/management, and provenance
-  - `#publications` - question-led selected publications, including an Additional Papers list, with current versioned PDF and paper-level README links for Word copies, version history, and research context
+  - `#publications` - four featured publications, three representative Additional Papers, and a View all publications link, with current versioned PDF and paper-level README links for Word copies, version history, and research context
   - `#applied-work` - differentiated released, private/internal, and public prototype work, including PAIM and APRM
   - `#project-cards` - retained compatibility fragment within Applied Work
   - `#connections` - retained compatibility fragment; related reading paths remain in research entries and canonical publication records
   - `#reflections` - Essays & Reflections, kept distinct from the Research Lab working papers: a featured September 2026 completed manuscript (v1.1, 54 pages, with its approved cover illustration) above the reader-facing four-essay index and the separate, shorter Life Views collection
     - `#how-we-get-where-we-are` - featured manuscript block for *How We Get Where We Are*
   - `#about` - concise background and external links
+- `publications/index.html` (`/publications/`) - complete current directory: seven Research-Lab working papers, five AI research publications (including Evidence-Centered AI Evaluation), four essays and one longer manuscript
 - `about/index.html` - present research, approach, intellectual continuity, professional and academic background, and external links
 
 ## Preserved support routes
@@ -37,7 +38,7 @@ The visible Related Paths section was removed to reduce duplication, while its `
 
 ## Current publication coverage
 
-All 16 approved editions are discoverable on the homepage: eleven publications in Selected Publications and Additional Papers (seven Research-Lab working papers and four AI-Risk-Management papers), plus the completed manuscript and four essays in Essays & Reflections. Evidence-Centered AI Evaluation remains an additional, independent publication. Each title retains a direct publication destination and its research record. No manuscript assets are hosted here.
+The Publications directory is the complete current record: 16 approved Research-Lab/AI-Risk-Management editions plus the independent Evidence-Centered AI Evaluation paper. It links all five paper overviews and preserves authoritative reading and research-record destinations. The homepage remains selective; its three Additional Papers are Important Questions, Inequality, and A Second Life. No manuscript assets are hosted here.
 
 ## Paper discovery pilot
 
@@ -52,4 +53,4 @@ Both pages are linked from their existing homepage research cards and Selected P
 - `papers/value-and-evolution-of-governance.html` — The Value and Evolution of Governance, Working Paper v1.0, October 2026.
 - `papers/a-second-life.html` — A Second Life, Working Paper v1.0, October 2026.
 
-The three pages are linked from Additional Papers. The existing four featured cards and six Research Questions categories remain unchanged. There is no new Publications directory page. The XML sitemap contains 17 canonical pages.
+All three pages are linked from the Publications directory; Inequality and A Second Life also remain in Additional Papers. The existing four featured cards and six Research Questions categories remain unchanged. The XML sitemap contains 18 canonical pages.

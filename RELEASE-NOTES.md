@@ -1,5 +1,14 @@
 # Release Notes
 
+## 2026-10-15 - Publications Directory (draft review)
+
+- Add `/publications/` as the complete current directory of 17 works, with publication status, year, version, authoritative reading/record links and all five existing overviews.
+- Keep the four featured publications and retain Important Questions, Inequality and A Second Life as representative Additional Papers; add View all publications.
+- Point Publications navigation to the directory while retaining existing routes, homepage anchors, research links, overview content, citation metadata and manuscript authority.
+- Preserve all 17 existing canonical sitemap entries and add the directory as the eighteenth. No new manuscript assets or research-program announcements.
+- Draft candidate only; approval, merge and deployment remain pending.
+
+
 ## 2026-10-15 - Three Working-Paper Overviews (draft review)
 
 - Add reader-oriented overviews for Inequality, Governance, and A Second Life, using the approved October 2026 v1.0 editions from Research-Lab PR #22.

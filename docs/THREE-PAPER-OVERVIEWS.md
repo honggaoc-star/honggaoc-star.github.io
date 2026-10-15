@@ -46,3 +46,7 @@ python scripts/check_discoverability.py --network --external-only --output ../th
 ```
 
 This is an undeployed draft. After approval and deployment, run `--live --network` without `--external-only`, require 17 sitemap entries, and verify the three live abstracts and publication destinations. Search Console processing and indexing require separate live evidence.
+
+## Current publication navigation
+
+The [Publications directory](../publications/index.html) now provides the complete current inventory and all five overview links. The homepage retains a representative selection. The directory candidate has 18 canonical sitemap entries; counts and homepage placements above describe the earlier implementation checkpoint. See [publication navigation maintenance](PUBLICATIONS.md).
