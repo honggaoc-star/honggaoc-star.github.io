@@ -38,7 +38,7 @@ The visible Related Paths section was removed to reduce duplication, while its `
 
 ## Current publication coverage
 
-The Publications directory is the complete current record: 16 approved Research-Lab/AI-Risk-Management editions plus the independent Evidence-Centered AI Evaluation paper. It links all five paper overviews and preserves authoritative reading and research-record destinations. The homepage remains selective; its three Additional Papers are Important Questions, Inequality, and A Second Life. No manuscript assets are hosted here.
+The Publications directory is the complete current record: 16 approved Research-Lab/AI-Risk-Management editions plus the independent Evidence-Centered AI Evaluation paper. It links all eight paper overviews and preserves authoritative reading and research-record destinations. The homepage remains selective; its three Additional Papers are Important Questions, Inequality, and A Second Life. No manuscript assets are hosted here.
 
 ## Paper discovery pilot
 
@@ -53,4 +53,12 @@ Both pages are linked from their existing homepage research cards and Selected P
 - `papers/value-and-evolution-of-governance.html` — The Value and Evolution of Governance, Working Paper v1.0, October 2026.
 - `papers/a-second-life.html` — A Second Life, Working Paper v1.0, October 2026.
 
-All three pages are linked from the Publications directory; Inequality and A Second Life also remain in Additional Papers. The existing four featured cards and six Research Questions categories remain unchanged. The XML sitemap contains 18 canonical pages.
+All three pages are linked from the Publications directory; Inequality and A Second Life also remain in Additional Papers. The existing four featured cards and six Research Questions categories remain unchanged. The XML sitemap contains 21 canonical pages, including the completion below.
+
+## Remaining working-paper overviews
+
+- `papers/ai-evolution-advancing-approximation-frontier.html` — AI Evolution as an Advancing Approximation Frontier, Working Paper v1.1, October 2026.
+- `papers/prediction-attribution-conjugacy.html` — Prediction–Attribution Conjugacy in Adaptive Decision Problems, Working Paper v1.1, October 2026.
+- `papers/world-might-not-be-as-complex.html` — The World Might Not Be as Complex as We Thought: The Roles of Scale, Perspective, and Information in Human Understanding, Working Paper v1.1, September 2026.
+
+All seven Research-Lab working papers now have overviews linked from the Publications directory. AI Evolution also has a discreet overview link in its existing featured card. No Additional Papers entries or featured selections change.

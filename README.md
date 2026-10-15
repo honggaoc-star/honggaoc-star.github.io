@@ -19,7 +19,7 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 
 - `index.html` - question-led homepage with selected publications
 - `publications/` - complete current publication directory
-- `papers/` - five reader-oriented publication overviews with approved abstracts and authoritative manuscript links
+- `papers/` - eight reader-oriented publication overviews with approved abstracts and authoritative manuscript links
 - `about/` - present research, approach, intellectual continuity, professional and academic background, and external links
 - `projects/` - retained compatibility and support exhibit pages for independent applied-work sites
 - `background/` - retained support routes for the earlier-research record
@@ -55,3 +55,5 @@ See [the technical baseline and Search Console checklist](docs/DISCOVERABILITY.m
 The [two-paper discovery pilot](docs/PAPER-PILOT.md) adds abstracts and citations while retaining canonical publication hosting. Scholarly metadata limitations are documented explicitly.
 
 The [three-paper extension](docs/THREE-PAPER-OVERVIEWS.md) follows the pilot conventions, adds the October 2026 working papers, and documents the candidate checks.
+
+The [remaining working-paper overviews](docs/REMAINING-WORKING-PAPER-OVERVIEWS.md) complete coverage of all seven Research-Lab working papers, with verified source metadata and candidate checks. The candidate sitemap contains 21 canonical pages; the existing Analytical Framework overview remains separate.
