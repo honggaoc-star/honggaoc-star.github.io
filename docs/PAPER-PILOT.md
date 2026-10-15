@@ -37,3 +37,7 @@ python scripts/check_discoverability.py --network --external-only --output ../pi
 ## October 15 extension
 
 The [three-paper overview extension](THREE-PAPER-OVERVIEWS.md) retains these conventions and the two original pilot pages unchanged. It adds three canonical pages, bringing the candidate sitemap to 17 entries. The 14-page command result above describes the original pilot checkpoint; after deployment of the extension, require 17 entries.
+
+## Current publication navigation
+
+The [Publications directory](../publications/index.html) now provides the complete current inventory and all five overview links. The homepage retains a representative selection. The directory candidate has 18 canonical sitemap entries; counts and homepage placements above describe the earlier implementation checkpoint. See [publication navigation maintenance](PUBLICATIONS.md).

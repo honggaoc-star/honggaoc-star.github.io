@@ -8,6 +8,8 @@ Internal editorial reference for the October 2026 portfolio review. This registe
 
 AI has two distinct roles in this portfolio. It is a **research subject** in work on AI evaluation, risk, provenance, management, and practical literacy. It is also a **working tool** that may support research, writing, software development, or asset creation in otherwise independent work. Use of AI as a tool does not make every project AI research, establish a shared theory, or validate a project's claims. Each repository remains authoritative for its own methods, evidence, disclosures, release status, and reuse boundaries.
 
+The [Publications directory](publications/index.html) is the complete reader-facing current inventory. This register retains the authoritative project homes, status boundaries, and historical portfolio context.
+
 ## Canonical inventory
 
 ### Research-Lab
