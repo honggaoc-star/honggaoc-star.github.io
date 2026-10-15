@@ -1,5 +1,11 @@
 # Release Notes
 
+## Draft — Broad Reader Entry homepage selection
+
+- Reorder Selected Publications into the approved four featured works and three complementary Additional Papers, retaining existing card/list designs and publication destinations.
+- Use the approved section introduction; preserve the homepage research introduction, six Research Questions, Applied Work, Essays & Reflections, About, and compatibility anchors.
+- Preserve all 17 directory entries, eight overviews, and 21 sitemap URLs. Update only homepage-selection documentation; earlier records remain historical checkpoints.
+
 ## Draft — Complete Research-Lab working-paper overviews
 
 - Add reader-oriented pages for AI Evolution, Prediction–Attribution Conjugacy, and The World Might Not Be as Complex as We Thought, preserving approved abstracts and v1.1 publication metadata.

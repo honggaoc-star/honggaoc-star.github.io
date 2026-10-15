@@ -35,7 +35,7 @@ All 16 existing PDF destinations and research records remain authoritative. Word
 
 Earlier scholarly publications remain accessible through the existing Earlier Research link. Superseded editions and internal development drafts are not promoted into current entries; their established records remain accessible.
 
-## Homepage selection
+## Homepage selection — PR #28 checkpoint
 
 Additional Papers is reduced from eight to three, retaining existing wording:
 
@@ -77,3 +77,26 @@ For a new release, verify the controlling record before changing the directory e
 ## Current overview coverage — October 15, 2026 candidate
 
 The [remaining working-paper overviews](REMAINING-WORKING-PAPER-OVERVIEWS.md) complete all seven Research-Lab working-paper pages. Together with Analytical Framework, the directory links eight overview pages. The candidate sitemap has 21 canonical URLs; earlier counts above describe dated checkpoints. Source fidelity, hashes, navigation choices, and candidate validation are documented in the completion note. External PDF hosting and the omission of `citation_pdf_url` remain unchanged. Live deployment and indexing require separate evidence.
+
+## Broad Reader Entry — current draft
+
+Prepared from PR #29 merge `c42adbfa0ba17eeaaaad21ee0c70bc2684738014`. Earlier selection and validation sections above describe historical checkpoints.
+
+Featured, in order: Why Important Questions Are Often Difficult; AI Evolution as an Advancing Approximation Frontier; Inequality in the Context of a Mechanical Model of Society; A Second Life. Additional Papers, in order: Prediction–Attribution Conjugacy in Adaptive Decision Problems; An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems; The Value and Evolution of Governance.
+
+This arrangement makes inquiry, AI development, social outcomes, and human experience visible in the prominent cards. The additional entries complement them with prediction and attribution, AI evaluation, and institutions. It is a set of reader entry points, not a ranking or a single research series. AI Provenance and Return-Weighted Risk remain in the complete directory and existing research-question links.
+
+The heading remains Selected Publications, with this approved introduction:
+
+> These publications offer starting points across different questions in my research. Each has its own scope, methods, and conclusions; the Publications directory lists all current works.
+
+Existing homepage wording is reused, including the previously published Prediction–Attribution and Governance entries. Prediction–Attribution gains its established overview link. Analytical Framework is labeled Research Manuscript v1.3, consistent with its authoritative status. No manuscripts, abstracts, overview pages, About text, styles, canonical URLs, or sitemap entries change.
+
+### Broad Reader Entry candidate validation
+
+- Exactly four featured cards and three Additional Papers in the approved order, with no duplicate work and the exact approved section introduction.
+- All seven PDF/overview/research-record link sets agree with the established overview pages. Previously approved questions and descriptions are reused.
+- The homepage outside Selected Publications is unchanged; all IDs are preserved. The directory, eight overview pages, About, stylesheet, and 21-URL sitemap are unchanged.
+- Eight regression tests pass. Candidate audit: 21 canonical URLs, 262 internal-link checks, 42 external network checks, zero findings.
+- Chromium checks at 1440px, 390px and 320px pass horizontal-overflow, heading-hierarchy, keyboard traversal, visible-focus and skip-link checks. Rendered screenshots inspected for the four-card/three-entry relationship and mobile readability.
+- This is local candidate validation, not public deployment or indexing evidence. No Search Console requests were made. After an approved merge, rerun the live audit and inspect the deployed homepage.

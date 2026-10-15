@@ -30,6 +30,12 @@ This repository hosts the account-level GitHub Pages site at <https://honggaoc-s
 - `SITE-MAP.md` - conceptual homepage architecture and file-level route map
 - `RELEASE-NOTES.md` - release history
 
+## Homepage publication selection
+
+Featured, in order: Why Important Questions Are Often Difficult; AI Evolution as an Advancing Approximation Frontier; Inequality in the Context of a Mechanical Model of Society; A Second Life. Additional Papers, in order: Prediction–Attribution Conjugacy in Adaptive Decision Problems; An Analytical Framework for Error and Hallucination in Deployed Generative AI Systems; The Value and Evolution of Governance.
+
+These are representative reader entry points, not a ranking. All 17 current works remain available through the Publications directory.
+
 ## Publications and External Project Destinations
 
 The [Publications directory](publications/index.html) lists all 17 current works, including their reading links, research records and available overviews. See [publication navigation maintenance](docs/PUBLICATIONS.md) for scope and checks.
